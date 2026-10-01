@@ -1,3 +1,4 @@
+
 import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
 
 import Navbar from "./Components/Navbar";
@@ -22,7 +23,7 @@ import Footer from "./Components/Footer.jsx";
 function AppContent() {
   const location = useLocation();
 
-  // Admin page-la Navbar show panna koodadhu
+  // Admin page-la Navbar and Footer show panna koodadhu
   const isAdminPage =
     location.pathname === "/admin" || location.pathname === "/admin-login";
 
@@ -50,6 +51,7 @@ function AppContent() {
         <Route path="/order-success" element={<OrderSucces />} />
 
         <Route path="/orders" element={<Orders />} />
+
         <Route path="/account" element={<Profile />} />
 
         <Route path="/search/:searchTerm" element={<SearchProduct />} />
@@ -57,10 +59,13 @@ function AppContent() {
         <Route path="/admin-login" element={<AdminLogin />} />
 
         <Route path="/admin" element={<Admin />} />
+
         {/* <Route path="/forgot-password" element={<ForgotPassword />} /> */}
+
         <Route path="/order-details" element={<OrderDetails />} />
       </Routes>
-      <Footer />
+
+      {!isAdminPage && <Footer />}
     </>
   );
 }
@@ -74,3 +79,4 @@ function App() {
 }
 
 export default App;
+
