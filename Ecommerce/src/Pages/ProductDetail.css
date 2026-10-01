@@ -1,0 +1,132 @@
+
+.product-details-page {
+  background: #000;
+}
+
+/* Main Card */
+
+.product-details {
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+/* Product Image */
+
+.details-image {
+  min-height: 550px;
+  background: #050505;
+  border-right: 1px solid #333;
+}
+
+.details-image img {
+  max-height: 520px;
+  width: 100%;
+  object-fit: contain;
+  transition: transform 0.4s ease;
+}
+
+.details-image img:hover {
+  transform: scale(1.04);
+}
+
+/* Product Information */
+
+.details-info {
+  background: #111;
+}
+
+.details-brand {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.details-info h1 {
+  color: #fff;
+}
+
+.details-description {
+  color: #ddd;
+}
+
+/* Rating */
+
+.details-rating {
+  font-size: 16px;
+}
+
+/* Price */
+
+.current-price {
+  color: #d4af37 !important;
+}
+
+/* Options */
+
+.option-list span {
+  transition: 0.2s ease;
+}
+
+.option-list span:hover {
+  background: #d4af37 !important;
+  color: #000 !important;
+}
+
+/* Features */
+
+.features .list-group-item {
+  font-size: 15px;
+}
+
+/* Buttons */
+
+.details-buttons .btn-warning {
+  background: #d4af37;
+  border-color: #d4af37;
+  color: #000;
+}
+
+.details-buttons .btn-warning:hover {
+  background: #f0c84b;
+  border-color: #f0c84b;
+  color: #000;
+}
+
+.details-buttons .btn-outline-warning {
+  color: #d4af37;
+  border-color: #d4af37;
+}
+
+.details-buttons .btn-outline-warning:hover {
+  background: #d4af37;
+  border-color: #d4af37;
+  color: #000;
+}
+
+/* Mobile */
+
+@media (max-width: 991px) {
+  .details-image {
+    min-height: 400px;
+    border-right: none;
+    border-bottom: 1px solid #333;
+  }
+
+  .details-image img {
+    max-height: 380px;
+  }
+}
+
+@media (max-width: 576px) {
+  .details-image {
+    min-height: 300px;
+  }
+
+  .details-image img {
+    max-height: 280px;
+  }
+
+  .details-info {
+    padding: 20px !important;
+  }
+}
+

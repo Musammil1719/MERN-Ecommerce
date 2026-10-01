@@ -1,0 +1,40 @@
+
+.search-page {
+  background: #000;
+}
+
+/* Header */
+
+.search-header h2 {
+  color: #fff;
+}
+
+.search-header {
+  border-bottom: 1px solid #333;
+  padding-bottom: 20px;
+}
+
+/* No Results */
+
+.no-results-card {
+  max-width: 500px;
+  border-radius: 15px;
+  box-shadow: 0 8px 25px rgba(212, 175, 55, 0.15);
+}
+
+.no-results-card:hover {
+  box-shadow: 0 10px 30px rgba(212, 175, 55, 0.25);
+}
+
+/* Mobile */
+
+@media (max-width: 576px) {
+  .search-header h2 {
+    font-size: 1.4rem;
+  }
+
+  .no-results-card {
+    margin: 0 10px;
+  }
+}
+

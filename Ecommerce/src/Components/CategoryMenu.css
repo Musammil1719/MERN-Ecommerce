@@ -1,0 +1,41 @@
+
+/* =========================
+   CATEGORY MENU
+========================= */
+
+.category-menu {
+  background: #080808 !important;
+  width: 100%;
+}
+
+/* Category Item */
+
+.category-item {
+  color: #ffffff;
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: 5px;
+
+  transition:
+    color 0.3s ease,
+    background-color 0.3s ease;
+}
+
+.category-item:hover {
+  color: #d4af37;
+  background-color: #151515;
+}
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 576px) {
+  .category-item {
+    font-size: 0.85rem;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+}
+

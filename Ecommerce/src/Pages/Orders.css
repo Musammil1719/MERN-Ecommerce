@@ -1,0 +1,183 @@
+/* ==========================================
+   ORDERS PAGE
+========================================== */
+
+.orders-page {
+  min-height: 100vh;
+}
+
+.orders-title {
+  color: #d4af37;
+  font-size: 34px;
+}
+
+/* ==========================================
+   ORDER CARD
+========================================== */
+
+.order-card {
+  background: #111 !important;
+  border-color: #d4af37 !important;
+  transition: 0.3s ease;
+}
+
+.order-card:hover {
+  box-shadow: 0 12px 30px rgba(212, 175, 55, 0.12) !important;
+}
+
+/* ==========================================
+   EMPTY ORDERS
+========================================== */
+
+.no-orders {
+  background: #111 !important;
+  border-color: #d4af37 !important;
+}
+
+.empty-order-icon {
+  font-size: 55px;
+}
+
+/* ==========================================
+   PRODUCT
+========================================== */
+
+.order-product-image-wrapper {
+  width: 85px;
+  height: 85px;
+  min-width: 85px;
+  background: #000;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.order-product-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 8px;
+}
+
+.product-name {
+  color: #fff;
+}
+
+/* ==========================================
+   TRACKING
+========================================== */
+
+.tracking-steps {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.tracking-wrapper {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+
+.tracking-step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  min-width: 80px;
+  text-align: center;
+  color: #777;
+  font-size: 12px;
+}
+
+.tracking-step.active {
+  color: #d4af37;
+}
+
+.tracking-circle {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 2px solid #555;
+  background: #181818;
+  color: #777;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+}
+
+.tracking-step.active .tracking-circle {
+  background: #d4af37;
+  border-color: #d4af37;
+  color: #000;
+}
+
+.tracking-line {
+  height: 3px;
+  flex: 1;
+  background: #444;
+  margin-top: -22px;
+}
+
+.tracking-line.active {
+  background: #d4af37;
+}
+
+/* ==========================================
+   CANCELLED
+========================================== */
+
+.cancelled-message {
+  background: rgba(220, 53, 69, 0.12) !important;
+}
+
+/* ==========================================
+   RESPONSIVE
+========================================== */
+
+@media (max-width: 767px) {
+  .tracking-steps {
+    overflow-x: auto;
+    padding-bottom: 10px;
+  }
+
+  .tracking-wrapper {
+    min-width: 125px;
+  }
+
+  .tracking-step {
+    min-width: 90px;
+    font-size: 11px;
+  }
+
+  .tracking-line {
+    min-width: 35px;
+  }
+}
+
+@media (max-width: 576px) {
+  .orders-page {
+    padding-top: 25px !important;
+  }
+
+  .orders-title {
+    font-size: 28px;
+  }
+
+  .order-card {
+    border-radius: 14px !important;
+  }
+
+  .order-product-image-wrapper {
+    width: 70px;
+    height: 70px;
+    min-width: 70px;
+  }
+
+  .product-name {
+    font-size: 15px;
+  }
+}

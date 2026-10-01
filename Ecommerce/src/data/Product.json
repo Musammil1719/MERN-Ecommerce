@@ -1,0 +1,4927 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 15 Pro",
+    "category": "Mobiles",
+    "subcategory": "Smartphones",
+    "brand": "Apple",
+    "price": 119900,
+    "originalPrice": 139084,
+    "discount": 14,
+    "rating": 4.8,
+    "reviews": 4821,
+    "stock": 18,
+    "description": "Premium flagship smartphone with a pro grade camera, titanium finish and long lasting battery performance.",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Natural Titanium",
+      "Blue Titanium",
+      "Black Titanium"
+    ],
+    "features": [
+      "A17 Pro chip",
+      "48MP Pro camera",
+      "Titanium finish",
+      "6.1 inch display",
+      "USB C charging"
+    ],
+    "storage": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "Mobiles",
+    "subcategory": "Smartphones",
+    "brand": "Samsung",
+    "price": 129999,
+    "originalPrice": 154699,
+    "discount": 16,
+    "rating": 4.7,
+    "reviews": 3945,
+    "stock": 15,
+    "description": "A premium Android flagship with AI tools, sharp imaging and powerful all round performance.",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Titanium Gray",
+      "Violet",
+      "Black"
+    ],
+    "features": [
+      "200MP camera",
+      "S Pen support",
+      "Dynamic AMOLED",
+      "Galaxy AI",
+      "Fast charging"
+    ],
+    "storage": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "OnePlus 12R",
+    "category": "Mobiles",
+    "subcategory": "Smartphones",
+    "brand": "OnePlus",
+    "price": 49999,
+    "originalPrice": 60999,
+    "discount": 18,
+    "rating": 4.5,
+    "reviews": 2760,
+    "stock": 32,
+    "description": "Value flagship with smooth speed, crisp display quality and a sharp camera system.",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Cool Blue",
+      "Iron Gray",
+      "Silver"
+    ],
+    "features": [
+      "120Hz AMOLED",
+      "50MP triple camera",
+      "100W charging",
+      "OxygenOS",
+      "Strong performance"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Xiaomi 14 Pro",
+    "category": "Mobiles",
+    "subcategory": "Smartphones",
+    "brand": "Xiaomi",
+    "price": 65999,
+    "originalPrice": 82499,
+    "discount": 20,
+    "rating": 4.4,
+    "reviews": 2310,
+    "stock": 28,
+    "description": "High end smartphone with Leica optics, premium display quality and fluid multitasking capability.",
+    "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "features": [
+      "Leica optics",
+      "1440p display",
+      "Snapdragon power",
+      "HyperOS",
+      "Fast wireless charging"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Vivo V30 Pro",
+    "category": "Mobiles",
+    "subcategory": "Smartphones",
+    "brand": "Vivo",
+    "price": 42999,
+    "originalPrice": 55039,
+    "discount": 22,
+    "rating": 4.3,
+    "reviews": 1956,
+    "stock": 40,
+    "description": "Portrait focused device with vivid imaging and a smooth screen for social and entertainment use.",
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Emerald Green",
+      "Black",
+      "Pearl White"
+    ],
+    "features": [
+      "Dual camera setup",
+      "120Hz display",
+      "AI portrait tools",
+      "Long battery",
+      "Smooth UI"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Realme GT 6",
+    "category": "Mobiles",
+    "subcategory": "Smartphones",
+    "brand": "Realme",
+    "price": 38999,
+    "originalPrice": 51089,
+    "discount": 24,
+    "rating": 4.2,
+    "reviews": 1824,
+    "stock": 41,
+    "description": "Fast charging smartphone built for gaming, multitasking and premium everyday performance.",
+    "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Silver",
+      "Green",
+      "Black"
+    ],
+    "features": [
+      "50MP camera",
+      "120W charging",
+      "AMOLED display",
+      "Powerful chipset",
+      "Stereo audio"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Nothing Phone 2",
+    "category": "Mobiles",
+    "subcategory": "Smartphones",
+    "brand": "Nothing",
+    "price": 44999,
+    "originalPrice": 50849,
+    "discount": 12,
+    "rating": 4.4,
+    "reviews": 1768,
+    "stock": 26,
+    "description": "Minimalist smartphone with a standout design and clean software experience.",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "White",
+      "Black",
+      "Gray"
+    ],
+    "features": [
+      "Glyph interface",
+      "OLED display",
+      "Clean Android UI",
+      "Dual camera setup",
+      "Premium build"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Motorola Edge 50 Fusion",
+    "category": "Mobiles",
+    "subcategory": "Smartphones",
+    "brand": "Motorola",
+    "price": 34999,
+    "originalPrice": 40599,
+    "discount": 14,
+    "rating": 4.1,
+    "reviews": 1479,
+    "stock": 43,
+    "description": "Slim stylish smartphone with a capable display and dependable battery for everyday use.",
+    "image": "https://images.unsplash.com/photo-1525598912003-663126343e1f?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Forest Green",
+      "Blue",
+      "Black"
+    ],
+    "features": [
+      "OLED edge display",
+      "50MP camera",
+      "Curved design",
+      "Fast charge",
+      "Stereo speakers"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Infinix Note 40 Pro",
+    "category": "Mobiles",
+    "subcategory": "Smartphones",
+    "brand": "Infinix",
+    "price": 25999,
+    "originalPrice": 30939,
+    "discount": 16,
+    "rating": 4.1,
+    "reviews": 1710,
+    "stock": 34,
+    "description": "Budget friendly phone with a large battery, smooth visuals and dependable daily value.",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Silver",
+      "Black",
+      "Blue"
+    ],
+    "features": [
+      "Large battery",
+      "AI camera tuning",
+      "Fast charging",
+      "AMOLED display",
+      "Value performance"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Samsung Galaxy Z Flip 6",
+    "category": "Mobiles",
+    "subcategory": "Smartphones",
+    "brand": "Samsung",
+    "price": 109999,
+    "originalPrice": 134199,
+    "discount": 18,
+    "rating": 4.6,
+    "reviews": 1760,
+    "stock": 17,
+    "description": "Foldable smartphone with compact portability and premium productivity packed into a slim body.",
+    "image": "https://images.unsplash.com/photo-1561154464-82e9d1e0d8ab?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Mint",
+      "Blue",
+      "Black"
+    ],
+    "features": [
+      "Foldable design",
+      "Dual camera system",
+      "Compact portability",
+      "Strong battery",
+      "Premium build"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "iQOO Neo 9 Pro",
+    "category": "Mobiles",
+    "subcategory": "Smartphones",
+    "brand": "iQOO",
+    "price": 31999,
+    "originalPrice": 39999,
+    "discount": 20,
+    "rating": 4.3,
+    "reviews": 1610,
+    "stock": 31,
+    "description": "Performance focused phone for gamers and multitaskers who want smooth speed and strong battery life.",
+    "image": "https://images.unsplash.com/photo-1625772299848-391b6a87d7b3?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Blue",
+      "Black",
+      "White"
+    ],
+    "features": [
+      "High refresh display",
+      "Fast charging",
+      "Gaming performance",
+      "Versatile cameras",
+      "Smooth UI"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "POCO F6",
+    "category": "Mobiles",
+    "subcategory": "Smartphones",
+    "brand": "POCO",
+    "price": 28999,
+    "originalPrice": 37119,
+    "discount": 22,
+    "rating": 4.2,
+    "reviews": 1582,
+    "stock": 38,
+    "description": "Performance driven budget flagship with high speed, strong gaming and dependable value.",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Silver",
+      "Green"
+    ],
+    "features": [
+      "Flagship chipset",
+      "Sharp display",
+      "Fast charge",
+      "Gaming focus",
+      "Reliable battery"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "OnePlus Nord 4",
+    "category": "Mobiles",
+    "subcategory": "Smartphones",
+    "brand": "OnePlus",
+    "price": 29999,
+    "originalPrice": 39299,
+    "discount": 24,
+    "rating": 4.3,
+    "reviews": 1638,
+    "stock": 29,
+    "description": "Balanced smartphone with premium feel, long battery life and smooth everyday performance.",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Mercury Silver",
+      "Nebula",
+      "Black"
+    ],
+    "features": [
+      "120Hz AMOLED",
+      "Fast charging",
+      "Strong battery",
+      "Clean software",
+      "Premium finish"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Samsung Galaxy M55",
+    "category": "Mobiles",
+    "subcategory": "Smartphones",
+    "brand": "Samsung",
+    "price": 27999,
+    "originalPrice": 31639,
+    "discount": 12,
+    "rating": 4.2,
+    "reviews": 1744,
+    "stock": 35,
+    "description": "Reliable phone with smooth software, versatile cameras and strong battery backup.",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Blue",
+      "Orange"
+    ],
+    "features": [
+      "Big battery",
+      "AMOLED display",
+      "Triple camera",
+      "Smooth software",
+      "Daily value"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Redmi Note 13 Pro Plus",
+    "category": "Mobiles",
+    "subcategory": "Smartphones",
+    "brand": "Xiaomi",
+    "price": 24999,
+    "originalPrice": 28999,
+    "discount": 14,
+    "rating": 4.3,
+    "reviews": 1886,
+    "stock": 42,
+    "description": "Feature heavy mid range phone with vibrant display and impressive camera output for everyday creators.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Arctic White",
+      "Black",
+      "Green"
+    ],
+    "features": [
+      "108MP camera",
+      "120Hz display",
+      "Strong value",
+      "Fast charging",
+      "Reliable performance"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Apple iPad Air 11",
+    "category": "Tablets",
+    "subcategory": "iPads",
+    "brand": "Apple",
+    "price": 55999,
+    "originalPrice": 66639,
+    "discount": 16,
+    "rating": 4.8,
+    "reviews": 2140,
+    "stock": 20,
+    "description": "Portable tablet with strong productivity, an excellent display and creative flexibility.",
+    "image": "https://images.unsplash.com/photo-1504707748692-419802cf939d?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Space Gray",
+      "Blue",
+      "Purple"
+    ],
+    "features": [
+      "M2 chip",
+      "11 inch display",
+      "Apple Pencil support",
+      "USB C",
+      "All day battery"
+    ],
+    "storage": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Samsung Galaxy Tab S10",
+    "category": "Tablets",
+    "subcategory": "Android Tablets",
+    "brand": "Samsung",
+    "price": 62999,
+    "originalPrice": 76859,
+    "discount": 18,
+    "rating": 4.6,
+    "reviews": 1887,
+    "stock": 14,
+    "description": "Premium Android tablet for study, entertainment and productivity with a large viewing premium display.",
+    "image": "https://images.unsplash.com/photo-1550236520-7050f3582da0?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Silver",
+      "Graphite",
+      "Blue"
+    ],
+    "features": [
+      "AMOLED display",
+      "S Pen included",
+      "Multi window productivity",
+      "Strong battery",
+      "DeX mode"
+    ],
+    "storage": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Lenovo Tab P12",
+    "category": "Tablets",
+    "subcategory": "Android Tablets",
+    "brand": "Lenovo",
+    "price": 31999,
+    "originalPrice": 39999,
+    "discount": 20,
+    "rating": 4.3,
+    "reviews": 1240,
+    "stock": 22,
+    "description": "Large screen tablet tuned for entertainment, reading and everyday browsing.",
+    "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Gray",
+      "Black"
+    ],
+    "features": [
+      "12.7 inch display",
+      "Quad speakers",
+      "Android productivity",
+      "Long battery",
+      "Tuned audio"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Acer Iconia Tab 10",
+    "category": "Tablets",
+    "subcategory": "Android Tablets",
+    "brand": "Acer",
+    "price": 18999,
+    "originalPrice": 24319,
+    "discount": 22,
+    "rating": 4.1,
+    "reviews": 998,
+    "stock": 30,
+    "description": "Value tablet made for family use, online study and casual streaming.",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "10.1 inch display",
+      "Dual speakers",
+      "Portable design",
+      "Family friendly",
+      "Solid battery"
+    ],
+    "storage": [
+      "64GB",
+      "128GB"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Samsung Galaxy Tab A9",
+    "category": "Tablets",
+    "subcategory": "Android Tablets",
+    "brand": "Samsung",
+    "price": 21999,
+    "originalPrice": 28819,
+    "discount": 24,
+    "rating": 4.2,
+    "reviews": 1164,
+    "stock": 24,
+    "description": "Everyday focused tablet with smooth performance and balanced value for study and media use.",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Silver",
+      "Gray"
+    ],
+    "features": [
+      "Large display",
+      "Good battery",
+      "Android convenience",
+      "Family entertainment",
+      "Balanced performance"
+    ],
+    "storage": [
+      "64GB",
+      "128GB"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Xiaomi Pad 6",
+    "category": "Tablets",
+    "subcategory": "Android Tablets",
+    "brand": "Xiaomi",
+    "price": 28999,
+    "originalPrice": 32769,
+    "discount": 12,
+    "rating": 4.3,
+    "reviews": 937,
+    "stock": 26,
+    "description": "Stylish tablet with bright visuals and responsive performance for work and streaming.",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Gray",
+      "Blue"
+    ],
+    "features": [
+      "11 inch display",
+      "Stylus support",
+      "Smooth performance",
+      "Long battery",
+      "Portable form factor"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Lenovo Yoga Tab",
+    "category": "Tablets",
+    "subcategory": "Android Tablets",
+    "brand": "Lenovo",
+    "price": 34999,
+    "originalPrice": 40599,
+    "discount": 14,
+    "rating": 4.3,
+    "reviews": 1015,
+    "stock": 21,
+    "description": "Versatile tablet with a comfortable display and productivity focused design for home or travel.",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "features": [
+      "Large display",
+      "Long battery",
+      "Productivity ready",
+      "Smart software",
+      "Comfortable grip"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "OnePlus Pad Go",
+    "category": "Tablets",
+    "subcategory": "Android Tablets",
+    "brand": "OnePlus",
+    "price": 23999,
+    "originalPrice": 28559,
+    "discount": 16,
+    "rating": 4.2,
+    "reviews": 1088,
+    "stock": 25,
+    "description": "Slim tablet with smooth performance and good battery life for daily tasks and media.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Halo Green",
+      "Gray"
+    ],
+    "features": [
+      "Rich screen",
+      "Smooth performance",
+      "Portable design",
+      "Battery reliability",
+      "Comfortable use"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "MacBook Air M3",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "brand": "Apple",
+    "price": 104999,
+    "originalPrice": 128099,
+    "discount": 18,
+    "rating": 4.8,
+    "reviews": 2180,
+    "stock": 12,
+    "description": "Ultra light laptop with premium battery life and efficient power for work, study and creative tasks.",
+    "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Midnight",
+      "Silver",
+      "Starlight"
+    ],
+    "features": [
+      "M3 chip",
+      "13.6 inch Retina display",
+      "All day battery",
+      "Fanless design",
+      "Thunderbolt support"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Dell XPS 13 Plus",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "brand": "Dell",
+    "price": 98999,
+    "originalPrice": 123749,
+    "discount": 20,
+    "rating": 4.6,
+    "reviews": 2021,
+    "stock": 10,
+    "description": "Premium ultrabook with a sleek profile, excellent keyboard and strong portable performance.",
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Platinum Silver",
+      "Black"
+    ],
+    "features": [
+      "13.4 inch display",
+      "Intel Core performance",
+      "Lightweight design",
+      "Comfortable keys",
+      "Strong battery"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "HP Envy 14",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "brand": "HP",
+    "price": 79999,
+    "originalPrice": 102399,
+    "discount": 22,
+    "rating": 4.5,
+    "reviews": 1724,
+    "stock": 17,
+    "description": "Balanced premium laptop for productivity, streaming and multitasking with refined portability.",
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Natural Silver",
+      "Nightfall Black"
+    ],
+    "features": [
+      "14 inch 2.8K display",
+      "AI productivity",
+      "SSD storage",
+      "Strong thermals",
+      "Fingerprint sensor"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "ThinkPad X1 Carbon",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "brand": "Lenovo",
+    "price": 119999,
+    "originalPrice": 157199,
+    "discount": 24,
+    "rating": 4.7,
+    "reviews": 1645,
+    "stock": 8,
+    "description": "Business class laptop built for reliability, security and all day productivity on the move.",
+    "image": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "features": [
+      "Carbon frame",
+      "Business security",
+      "Keyboard comfort",
+      "Long battery",
+      "Portable design"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "ZenBook 14 OLED",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "brand": "ASUS",
+    "price": 84999,
+    "originalPrice": 96049,
+    "discount": 12,
+    "rating": 4.5,
+    "reviews": 1570,
+    "stock": 11,
+    "description": "Thin vivid ultrabook built for creative work and consistent everyday performance.",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Ponder Blue",
+      "Gray"
+    ],
+    "features": [
+      "14 inch OLED display",
+      "Intel Evo",
+      "Ultra light body",
+      "AI noise cancellation",
+      "Long battery"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Stealth 14 Studio",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "brand": "MSI",
+    "price": 139999,
+    "originalPrice": 162399,
+    "discount": 14,
+    "rating": 4.6,
+    "reviews": 1340,
+    "stock": 9,
+    "description": "Gaming laptop with slim portability and strong graphics for immersive performance.",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "features": [
+      "RTX graphics",
+      "QHD display",
+      "Thin chassis",
+      "High refresh rate",
+      "Advanced cooling"
+    ],
+    "storage": [
+      "1TB",
+      "2TB"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Yoga Slim 7",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "brand": "Lenovo",
+    "price": 74999,
+    "originalPrice": 89249,
+    "discount": 16,
+    "rating": 4.4,
+    "reviews": 1342,
+    "stock": 19,
+    "description": "Flexible and stylish laptop tuned for productivity and balanced everyday performance.",
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Arctic Gray",
+      "Silver"
+    ],
+    "features": [
+      "Slim body",
+      "Balanced battery",
+      "Premium display",
+      "Portable productivity",
+      "Fast performance"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Pavilion 15",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "brand": "HP",
+    "price": 68999,
+    "originalPrice": 84179,
+    "discount": 18,
+    "rating": 4.3,
+    "reviews": 1280,
+    "stock": 22,
+    "description": "Dependable everyday laptop for study, work and media consumption with comfortable ergonomics.",
+    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Natural Silver",
+      "Shadow Black"
+    ],
+    "features": [
+      "15.6 inch display",
+      "Everyday productivity",
+      "Fast SSD",
+      "Comfortable keyboard",
+      "Balanced performance"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Inspiron 14",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "brand": "Dell",
+    "price": 55999,
+    "originalPrice": 69999,
+    "discount": 20,
+    "rating": 4.2,
+    "reviews": 1213,
+    "stock": 24,
+    "description": "Practical laptop delivering smooth performance and all day comfort for home and office use.",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Carbon Black",
+      "Silver"
+    ],
+    "features": [
+      "14 inch screen",
+      "Solid performance",
+      "Office ready design",
+      "Comfortable keyboard",
+      "Reliable battery"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Nitro 5",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "brand": "Acer",
+    "price": 92999,
+    "originalPrice": 119039,
+    "discount": 22,
+    "rating": 4.5,
+    "reviews": 1409,
+    "stock": 15,
+    "description": "Gaming focused laptop with bold performance and strong graphics for creators and players.",
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Red"
+    ],
+    "features": [
+      "Gaming graphics",
+      "High refresh display",
+      "Airflow design",
+      "Performance chassis",
+      "Responsive keys"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Legion 5",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "brand": "Lenovo",
+    "price": 89999,
+    "originalPrice": 117899,
+    "discount": 24,
+    "rating": 4.4,
+    "reviews": 1318,
+    "stock": 16,
+    "description": "Performance laptop with strong gaming and multitasking capability in a robust chassis.",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Blue"
+    ],
+    "features": [
+      "Dedicated graphics",
+      "High refresh screen",
+      "Cooling system",
+      "Multitasking strength",
+      "Durable body"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "ThinkBook 14",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "brand": "Lenovo",
+    "price": 62999,
+    "originalPrice": 71189,
+    "discount": 12,
+    "rating": 4.3,
+    "reviews": 1185,
+    "stock": 18,
+    "description": "Compact business laptop with smart design and dependable performance for daily office use.",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Gray",
+      "Black"
+    ],
+    "features": [
+      "Business oriented design",
+      "Strong battery",
+      "Fast SSD",
+      "Port selection",
+      "Comfortable typing"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "WH 1000XM5",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "brand": "Sony",
+    "price": 29999,
+    "originalPrice": 34799,
+    "discount": 14,
+    "rating": 4.8,
+    "reviews": 3195,
+    "stock": 24,
+    "description": "Premium noise cancelling headphones with rich sound and all day listening comfort.",
+    "image": "https://images.unsplash.com/photo-1543508282-6319a3e2621f?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "features": [
+      "Noise cancelling",
+      "30 hour battery",
+      "Bluetooth multipoint",
+      "Foldable design",
+      "Clear voice calls"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Airdopes 500",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "brand": "Boat",
+    "price": 2499,
+    "originalPrice": 2974,
+    "discount": 16,
+    "rating": 4.2,
+    "reviews": 5100,
+    "stock": 74,
+    "description": "Everyday earbuds balancing sound quality, battery life and comfort for calls and music.",
+    "image": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "features": [
+      "Low latency mode",
+      "20 hour playback",
+      "Touch controls",
+      "IPX5 water resistance",
+      "Quick charge"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "JBL Clip 4",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "brand": "JBL",
+    "price": 3499,
+    "originalPrice": 4269,
+    "discount": 18,
+    "rating": 4.4,
+    "reviews": 2320,
+    "stock": 59,
+    "description": "Portable wireless speaker with punchy sound and travel friendly styling.",
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Teal",
+      "Red"
+    ],
+    "features": [
+      "Portable speaker",
+      "IP67 waterproof",
+      "12 hour battery",
+      "Strong bass",
+      "Bluetooth pairing"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Airdopes 141",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "brand": "Boat",
+    "price": 1499,
+    "originalPrice": 1874,
+    "discount": 20,
+    "rating": 4.1,
+    "reviews": 3219,
+    "stock": 84,
+    "description": "Lightweight earbuds with quick pairing and reliable everyday call performance.",
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "features": [
+      "Lightweight design",
+      "Bluetooth support",
+      "Fast pairing",
+      "Voice assistant",
+      "Clear calls"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Stone 352",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "brand": "Boat",
+    "price": 1799,
+    "originalPrice": 2303,
+    "discount": 22,
+    "rating": 4.2,
+    "reviews": 2400,
+    "stock": 72,
+    "description": "Portable speaker with strong output and rugged design for travel and outdoor listening.",
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Red",
+      "Blue"
+    ],
+    "features": [
+      "IPX7 waterproof",
+      "Powerful bass",
+      "28 hour playback",
+      "Bluetooth support",
+      "Portable design"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Zebronics Speaker Bar",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "brand": "Zebronics",
+    "price": 3499,
+    "originalPrice": 4584,
+    "discount": 24,
+    "rating": 4.1,
+    "reviews": 1218,
+    "stock": 36,
+    "description": "Compact speaker bar that upgrades home entertainment with rich sound and easy connectivity.",
+    "image": "https://images.unsplash.com/photo-1567016432779-094069958ea5?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Gray"
+    ],
+    "features": [
+      "Enhanced bass",
+      "Wireless pairing",
+      "Compact body",
+      "HD audio support",
+      "Remote ready"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "LG Soundbar",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "brand": "LG",
+    "price": 21999,
+    "originalPrice": 24859,
+    "discount": 12,
+    "rating": 4.4,
+    "reviews": 1425,
+    "stock": 16,
+    "description": "Cinematic sound system with immersive audio and modern styling for home entertainment.",
+    "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "features": [
+      "Dolby Atmos",
+      "Wireless subwoofer",
+      "Bluetooth streaming",
+      "Clear vocals",
+      "Easy setup"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Bose QuietComfort Earbuds",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "brand": "Bose",
+    "price": 19999,
+    "originalPrice": 23199,
+    "discount": 14,
+    "rating": 4.7,
+    "reviews": 1424,
+    "stock": 18,
+    "description": "Premium earbuds with excellent noise isolation and clean sound for travel and deep focus.",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "features": [
+      "Noise isolation",
+      "Long listening time",
+      "Compact case",
+      "Rich sound",
+      "Clear microphone"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "OnePlus Nord Buds 3",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "brand": "OnePlus",
+    "price": 2499,
+    "originalPrice": 2974,
+    "discount": 16,
+    "rating": 4.3,
+    "reviews": 1988,
+    "stock": 67,
+    "description": "Balanced earbuds built for daily listening and long commute comfort.",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "features": [
+      "Deep bass",
+      "Fast pairing",
+      "Lightweight build",
+      "Noise filtering",
+      "Long battery"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Raga Analog Watch",
+    "category": "Watches",
+    "subcategory": "Women Watches",
+    "brand": "Titan",
+    "price": 3499,
+    "originalPrice": 4269,
+    "discount": 18,
+    "rating": 4.5,
+    "reviews": 1504,
+    "stock": 21,
+    "description": "Elegantly designed analog watch with a graceful aesthetic for daily and formal styling.",
+    "image": "https://images.unsplash.com/photo-1592150621744-aca64f48394e?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Gold",
+      "Silver",
+      "Rose Gold"
+    ],
+    "features": [
+      "Analog dial",
+      "Leather strap",
+      "Water resistant",
+      "Elegant look",
+      "Premium finish"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Fastrack Smart Watch",
+    "category": "Watches",
+    "subcategory": "Smart Watches",
+    "brand": "Fastrack",
+    "price": 3499,
+    "originalPrice": 4374,
+    "discount": 20,
+    "rating": 4.4,
+    "reviews": 1880,
+    "stock": 39,
+    "description": "Smart wearable combining health tracking, notifications and style in one lightweight package.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Blue",
+      "Pink"
+    ],
+    "features": [
+      "Fitness tracking",
+      "Bluetooth calls",
+      "Activity monitoring",
+      "Multiple sports modes",
+      "Comfortable strap"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "G Shock Digital Watch",
+    "category": "Watches",
+    "subcategory": "Men Watches",
+    "brand": "Casio",
+    "price": 6999,
+    "originalPrice": 8959,
+    "discount": 22,
+    "rating": 4.6,
+    "reviews": 2350,
+    "stock": 18,
+    "description": "Rugged digital watch for active lifestyles with shock resistance and durable construction.",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Army Green"
+    ],
+    "features": [
+      "Shock resistant",
+      "Digital display",
+      "Water resistance",
+      "Sport design",
+      "Long battery"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "ColorFit Pro 5",
+    "category": "Watches",
+    "subcategory": "Smart Watches",
+    "brand": "Noise",
+    "price": 4999,
+    "originalPrice": 6549,
+    "discount": 24,
+    "rating": 4.3,
+    "reviews": 3205,
+    "stock": 45,
+    "description": "Smartwatch with fitness features and seamless notifications for everyday awareness.",
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Gray",
+      "Pink"
+    ],
+    "features": [
+      "AMOLED display",
+      "Sleep monitoring",
+      "Fitness tracking",
+      "Bluetooth calling",
+      "IP68 rating"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Apple Watch Series 9",
+    "category": "Watches",
+    "subcategory": "Smart Watches",
+    "brand": "Apple",
+    "price": 41999,
+    "originalPrice": 47459,
+    "discount": 12,
+    "rating": 4.8,
+    "reviews": 2430,
+    "stock": 12,
+    "description": "Premium smartwatch with advanced health tracking and a polished design for active routines.",
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Midnight",
+      "Silver",
+      "Pink"
+    ],
+    "features": [
+      "Health tracking",
+      "Always on display",
+      "GPS and cellular",
+      "Fitness insights",
+      "Fast charging"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Fossil Gen 6",
+    "category": "Watches",
+    "subcategory": "Smart Watches",
+    "brand": "Fossil",
+    "price": 14999,
+    "originalPrice": 17399,
+    "discount": 14,
+    "rating": 4.3,
+    "reviews": 1062,
+    "stock": 14,
+    "description": "Classic watch styling with modern fitness and connectivity features for everyday convenience.",
+    "image": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Brown",
+      "Silver"
+    ],
+    "features": [
+      "Wear OS",
+      "Fitness tracking",
+      "Google Maps access",
+      "Custom watch faces",
+      "Fast charging"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Rolex Leather Strap Watch",
+    "category": "Watches",
+    "subcategory": "Luxury Watches",
+    "brand": "Rolex",
+    "price": 89999,
+    "originalPrice": 107099,
+    "discount": 16,
+    "rating": 4.8,
+    "reviews": 654,
+    "stock": 5,
+    "description": "Premium leather strap watch with refined craftsmanship for formal and special occasions.",
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "features": [
+      "Luxury craftsmanship",
+      "Leather strap",
+      "Precision movement",
+      "Classic design",
+      "Premium finishing"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Titan Neo Analog",
+    "category": "Watches",
+    "subcategory": "Men Watches",
+    "brand": "Titan",
+    "price": 2799,
+    "originalPrice": 3415,
+    "discount": 18,
+    "rating": 4.4,
+    "reviews": 1322,
+    "stock": 28,
+    "description": "Modern analog watch offering stylish everyday wear with simple elegance and comfort.",
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Silver",
+      "Black",
+      "Brown"
+    ],
+    "features": [
+      "Analog display",
+      "Durable strap",
+      "Water resistance",
+      "Classic style",
+      "Everyday wear"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Electric Kettle",
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "brand": "Prestige",
+    "price": 1799,
+    "originalPrice": 2249,
+    "discount": 20,
+    "rating": 4.3,
+    "reviews": 2790,
+    "stock": 48,
+    "description": "Fast boiling kettle designed for busy mornings and easy tea or coffee routines.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "features": [
+      "1.5L capacity",
+      "Fast boiling",
+      "Auto shut off",
+      "Heat resistant body",
+      "Cord storage"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Mixer Grinder",
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "brand": "Philips",
+    "price": 3999,
+    "originalPrice": 5119,
+    "discount": 22,
+    "rating": 4.5,
+    "reviews": 2138,
+    "stock": 31,
+    "description": "Powerful grinder for smooth blends, chutneys and daily kitchen prep needs.",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "750W motor",
+      "Stainless steel jars",
+      "Overload protection",
+      "Multiple speeds",
+      "Easy grip handles"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Air Fryer",
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "brand": "Bajaj",
+    "price": 5499,
+    "originalPrice": 7204,
+    "discount": 24,
+    "rating": 4.4,
+    "reviews": 1988,
+    "stock": 23,
+    "description": "Healthy cooking appliance that brings crisp results to everyday meals with less oil.",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Red"
+    ],
+    "features": [
+      "Rapid air technology",
+      "4.1L basket",
+      "Adjustable thermostat",
+      "Easy cleaning",
+      "Compact design"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Room Heater",
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "brand": "Havells",
+    "price": 3599,
+    "originalPrice": 4067,
+    "discount": 12,
+    "rating": 4.2,
+    "reviews": 1502,
+    "stock": 40,
+    "description": "Efficient room heater for cosy indoor comfort in colder weather and quiet evenings.",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Blue",
+      "White",
+      "Black"
+    ],
+    "features": [
+      "Quick heat",
+      "Overheat protection",
+      "Portable design",
+      "Fan mode",
+      "Safety features"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Glass Food Storage Set",
+    "category": "Home & Kitchen",
+    "subcategory": "Storage",
+    "brand": "Borosil",
+    "price": 1499,
+    "originalPrice": 1739,
+    "discount": 14,
+    "rating": 4.3,
+    "reviews": 1674,
+    "stock": 60,
+    "description": "Food grade storage set that keeps ingredients fresh and kitchens neatly organised.",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Clear",
+      "Blue"
+    ],
+    "features": [
+      "Leak proof lids",
+      "BPA free",
+      "Stackable setup",
+      "Microwave safe",
+      "Clear visibility"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Dinner Set",
+    "category": "Home & Kitchen",
+    "subcategory": "Dining",
+    "brand": "Cello",
+    "price": 2199,
+    "originalPrice": 2617,
+    "discount": 16,
+    "rating": 4.2,
+    "reviews": 1198,
+    "stock": 55,
+    "description": "Durable dinnerware set for everyday meals with a sleek family friendly design.",
+    "image": "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "White",
+      "Cream"
+    ],
+    "features": [
+      "Ceramic finish",
+      "Dishwasher safe",
+      "Stackable design",
+      "Family friendly set",
+      "Break resistant body"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Nonstick Fry Pan",
+    "category": "Home & Kitchen",
+    "subcategory": "Cookware",
+    "brand": "Prestige",
+    "price": 1299,
+    "originalPrice": 1585,
+    "discount": 18,
+    "rating": 4.3,
+    "reviews": 1450,
+    "stock": 65,
+    "description": "Everyday fry pan with a smooth nonstick surface for easy cooking and cleaning.",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "features": [
+      "Nonstick coating",
+      "Even heat spread",
+      "Ergonomic handle",
+      "Easy clean finish",
+      "Daily use"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Thermo Bottle",
+    "category": "Home & Kitchen",
+    "subcategory": "Drinkware",
+    "brand": "Milton",
+    "price": 1299,
+    "originalPrice": 1624,
+    "discount": 20,
+    "rating": 4.4,
+    "reviews": 2210,
+    "stock": 77,
+    "description": "Insulated bottle for hot or cold drinks through long days and active routines.",
+    "image": "https://images.unsplash.com/photo-1577803947579-9f67b8a3f8fe?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Steel Blue",
+      "Black",
+      "Green"
+    ],
+    "features": [
+      "Vacuum insulation",
+      "Leakproof cap",
+      "BPA free body",
+      "Travel ready",
+      "Easy carry"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Maharaja Mixer",
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "brand": "Maharaja Whiteline",
+    "price": 2299,
+    "originalPrice": 2943,
+    "discount": 22,
+    "rating": 4.1,
+    "reviews": 1283,
+    "stock": 33,
+    "description": "Compact mixer built for smooth blending, smoothies and quick everyday prep.",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Red",
+      "Black"
+    ],
+    "features": [
+      "Multi speed settings",
+      "Compact body",
+      "Easy grip",
+      "Safety lock",
+      "Quick blending"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Ceramic Cooker",
+    "category": "Home & Kitchen",
+    "subcategory": "Cookware",
+    "brand": "Cera",
+    "price": 1799,
+    "originalPrice": 2357,
+    "discount": 24,
+    "rating": 4.3,
+    "reviews": 947,
+    "stock": 42,
+    "description": "Ceramic cookware piece designed for even heat distribution and healthy home cooking.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Ceramic White",
+      "Sand"
+    ],
+    "features": [
+      "Ceramic coating",
+      "Even heat spread",
+      "Durable body",
+      "Healthy cooking",
+      "Easy cleanup"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Stand Mixer",
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "brand": "KitchenAid",
+    "price": 35999,
+    "originalPrice": 40679,
+    "discount": 12,
+    "rating": 4.8,
+    "reviews": 1154,
+    "stock": 8,
+    "description": "Premium stand mixer for serious baking and food prep with durable powerful performance.",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Empire Red",
+      "Pearl Silver"
+    ],
+    "features": [
+      "High torque",
+      "Multiple attachments",
+      "Powerful motor",
+      "Heavy duty body",
+      "Baking ready"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Lunch Box",
+    "category": "Home & Kitchen",
+    "subcategory": "Storage",
+    "brand": "Milton",
+    "price": 999,
+    "originalPrice": 1159,
+    "discount": 14,
+    "rating": 4.2,
+    "reviews": 1413,
+    "stock": 72,
+    "description": "Practical insulated lunch box for fresh meals and tidy daily routines.",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Blue",
+      "Pink",
+      "Black"
+    ],
+    "features": [
+      "Leak resistant",
+      "Insulated body",
+      "Portable design",
+      "Meal ready",
+      "Easy carry handle"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Refrigerator 300L",
+    "category": "Appliances",
+    "subcategory": "Refrigerators",
+    "brand": "LG",
+    "price": 44999,
+    "originalPrice": 53549,
+    "discount": 16,
+    "rating": 4.6,
+    "reviews": 1640,
+    "stock": 12,
+    "description": "Spacious refrigerator offering reliable cooling and organised storage for modern families.",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "300L capacity",
+      "Energy efficient cooling",
+      "Moisture control",
+      "Spacious layout",
+      "Inverter compressor"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Front Load Washer",
+    "category": "Appliances",
+    "subcategory": "Laundry",
+    "brand": "Samsung",
+    "price": 35999,
+    "originalPrice": 43919,
+    "discount": 18,
+    "rating": 4.5,
+    "reviews": 1473,
+    "stock": 10,
+    "description": "Quiet and efficient washing machine for fabric care and everyday laundry convenience.",
+    "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Silver",
+      "Graphite"
+    ],
+    "features": [
+      "8kg capacity",
+      "Energy efficient",
+      "AI control",
+      "Low noise",
+      "Quick wash mode"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Air Purifier",
+    "category": "Appliances",
+    "subcategory": "Air Care",
+    "brand": "Philips",
+    "price": 12999,
+    "originalPrice": 16249,
+    "discount": 20,
+    "rating": 4.4,
+    "reviews": 1187,
+    "stock": 16,
+    "description": "Smart air purifier keeping indoor spaces cleaner and fresher through everyday use.",
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "White",
+      "Gray"
+    ],
+    "features": [
+      "HEPA filtration",
+      "Air quality sensor",
+      "Quiet mode",
+      "Child lock",
+      "Smart app control"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Ceiling Fan",
+    "category": "Appliances",
+    "subcategory": "Cooling",
+    "brand": "Usha",
+    "price": 2399,
+    "originalPrice": 3071,
+    "discount": 22,
+    "rating": 4.4,
+    "reviews": 1980,
+    "stock": 30,
+    "description": "Modern ceiling fan with smooth airflow and stylish design for comfortable living spaces.",
+    "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "White",
+      "Brown",
+      "Black"
+    ],
+    "features": [
+      "Energy efficient",
+      "Strong airflow",
+      "Silent operation",
+      "Modern finish",
+      "Long durability"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Exhaust Fan",
+    "category": "Appliances",
+    "subcategory": "Cooling",
+    "brand": "Havells",
+    "price": 1999,
+    "originalPrice": 2619,
+    "discount": 24,
+    "rating": 4.2,
+    "reviews": 1164,
+    "stock": 44,
+    "description": "Convenient exhaust fan designed for fresh air and faster removal of moisture or odour.",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "White",
+      "Gray"
+    ],
+    "features": [
+      "Quick air extraction",
+      "Low noise",
+      "Durable motor",
+      "Easy maintenance",
+      "Compact design"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Water Heater",
+    "category": "Appliances",
+    "subcategory": "Water Heating",
+    "brand": "Havells",
+    "price": 4999,
+    "originalPrice": 5649,
+    "discount": 12,
+    "rating": 4.3,
+    "reviews": 1317,
+    "stock": 28,
+    "description": "Reliable water heater providing steady efficient warm water for daily family routines.",
+    "image": "https://images.unsplash.com/photo-1525598912003-663126343e1f?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "White",
+      "Silver"
+    ],
+    "features": [
+      "Fast heating",
+      "Safety valve",
+      "Compact body",
+      "Energy efficient",
+      "Durable inner tank"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Vacuum Cleaner",
+    "category": "Appliances",
+    "subcategory": "Cleaning",
+    "brand": "Eureka Forbes",
+    "price": 7999,
+    "originalPrice": 9279,
+    "discount": 14,
+    "rating": 4.4,
+    "reviews": 1435,
+    "stock": 21,
+    "description": "Compact vacuum cleaner made for quick daily cleaning with strong suction and easy upkeep.",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Red",
+      "Black"
+    ],
+    "features": [
+      "Strong suction",
+      "Easy maneuver",
+      "HEPA filter",
+      "Quick release bin",
+      "Quiet cleaning"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Beauty Blush Duo",
+    "category": "Beauty",
+    "subcategory": "Makeup",
+    "brand": "Nykaa",
+    "price": 799,
+    "originalPrice": 951,
+    "discount": 16,
+    "rating": 4.2,
+    "reviews": 2020,
+    "stock": 92,
+    "description": "Buildable blush duo that adds subtle color and a naturally polished finish to the cheeks.",
+    "image": "https://images.unsplash.com/photo-1561154464-82e9d1e0d8ab?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Rose",
+      "Peach"
+    ],
+    "features": [
+      "Buildable color",
+      "Smooth texture",
+      "Long lasting finish",
+      "Travel friendly",
+      "Blendable formula"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Sky High Mascara",
+    "category": "Beauty",
+    "subcategory": "Makeup",
+    "brand": "Maybelline",
+    "price": 649,
+    "originalPrice": 792,
+    "discount": 18,
+    "rating": 4.4,
+    "reviews": 3112,
+    "stock": 87,
+    "description": "Volumizing mascara that lifts and defines lashes for fuller bolder eye looks.",
+    "image": "https://images.unsplash.com/photo-1625772299848-391b6a87d7b3?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Brown"
+    ],
+    "features": [
+      "Volumizing effect",
+      "Lifted lashes",
+      "Smudge resistant",
+      "Easy application",
+      "Long wear finish"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Primer Glow Serum",
+    "category": "Beauty",
+    "subcategory": "Skin Care",
+    "brand": "Lakme",
+    "price": 899,
+    "originalPrice": 1124,
+    "discount": 20,
+    "rating": 4.3,
+    "reviews": 1898,
+    "stock": 75,
+    "description": "Hydrating skincare duo that smooths and brightens for a healthy everyday glow.",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Natural",
+      "Pearl"
+    ],
+    "features": [
+      "Glow boosting",
+      "Smooth base",
+      "Hydrating skincare",
+      "Fast absorption",
+      "Daily use"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Face Wash Trio",
+    "category": "Beauty",
+    "subcategory": "Skin Care",
+    "brand": "Mamaearth",
+    "price": 699,
+    "originalPrice": 895,
+    "discount": 22,
+    "rating": 4.4,
+    "reviews": 2045,
+    "stock": 94,
+    "description": "Gentle face wash trio designed to refresh and cleanse without stripping the skin.",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Green",
+      "Pink"
+    ],
+    "features": [
+      "Gentle cleansing",
+      "Natural ingredients",
+      "Daily care",
+      "Non drying feel",
+      "Travel sized set"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Sunscreen SPF 50",
+    "category": "Beauty",
+    "subcategory": "Skin Care",
+    "brand": "Sunsilk",
+    "price": 799,
+    "originalPrice": 1047,
+    "discount": 24,
+    "rating": 4.2,
+    "reviews": 1467,
+    "stock": 80,
+    "description": "Everyday sunscreen that offers broad protection and a lightweight finish for sun exposure.",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Transparent",
+      "Pearl"
+    ],
+    "features": [
+      "SPF 50 protection",
+      "Lightweight texture",
+      "Water resistant",
+      "Daily use",
+      "Non greasy finish"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Body Lotion",
+    "category": "Beauty",
+    "subcategory": "Bath & Body",
+    "brand": "Dove",
+    "price": 499,
+    "originalPrice": 564,
+    "discount": 12,
+    "rating": 4.3,
+    "reviews": 2760,
+    "stock": 120,
+    "description": "Rich body lotion for soft hydrated skin with a nourishing and lightweight texture.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "White",
+      "Cream"
+    ],
+    "features": [
+      "Deep moisturization",
+      "Soft skin feel",
+      "Gentle formula",
+      "Daily hydration",
+      "Non sticky finish"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Essential Oil Kit",
+    "category": "Beauty",
+    "subcategory": "Bath & Body",
+    "brand": "Aroma",
+    "price": 1199,
+    "originalPrice": 1391,
+    "discount": 14,
+    "rating": 4.2,
+    "reviews": 932,
+    "stock": 68,
+    "description": "Aromatherapy oil kit for soothing routines, relaxation and mood enhancing home rituals.",
+    "image": "https://images.unsplash.com/photo-1504707748692-419802cf939d?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Amber",
+      "Green"
+    ],
+    "features": [
+      "Natural extracts",
+      "Aromatherapy blend",
+      "Relaxing fragrance",
+      "Portable set",
+      "Wellness support"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Body Butter",
+    "category": "Beauty",
+    "subcategory": "Bath & Body",
+    "brand": "The Body Shop",
+    "price": 1099,
+    "originalPrice": 1308,
+    "discount": 16,
+    "rating": 4.5,
+    "reviews": 1640,
+    "stock": 72,
+    "description": "Creamy body butter delivering deep nourishment and a soft finish for dry skin.",
+    "image": "https://images.unsplash.com/photo-1550236520-7050f3582da0?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Cream",
+      "Rose"
+    ],
+    "features": [
+      "Rich moisturization",
+      "Velvety finish",
+      "Soft skin feel",
+      "Everyday comfort",
+      "Gentle fragrance"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Velvet Lipstick",
+    "category": "Beauty",
+    "subcategory": "Makeup",
+    "brand": "MAC",
+    "price": 1999,
+    "originalPrice": 2439,
+    "discount": 18,
+    "rating": 4.7,
+    "reviews": 2350,
+    "stock": 55,
+    "description": "Velvet lipstick with rich color and smooth comfort for polished everyday looks.",
+    "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Ruby Red",
+      "Pink"
+    ],
+    "features": [
+      "Velvet finish",
+      "Smooth application",
+      "Long wear color",
+      "Hydrating formula",
+      "Elegant packaging"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Men Face Wash",
+    "category": "Beauty",
+    "subcategory": "Skin Care",
+    "brand": "Nivea",
+    "price": 299,
+    "originalPrice": 374,
+    "discount": 20,
+    "rating": 4.1,
+    "reviews": 1420,
+    "stock": 96,
+    "description": "Gentle facial wash for men with effective cleansing and a refreshing finish.",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Blue",
+      "White"
+    ],
+    "features": [
+      "Gentle cleansing",
+      "Oil control",
+      "Daily freshness",
+      "Skin comfort",
+      "Easy rinse"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Beard Oil",
+    "category": "Beauty",
+    "subcategory": "Skin Care",
+    "brand": "Beardo",
+    "price": 499,
+    "originalPrice": 639,
+    "discount": 22,
+    "rating": 4.4,
+    "reviews": 1890,
+    "stock": 83,
+    "description": "Nourishing beard oil that softens hair and gives facial grooming a healthier finish.",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Amber",
+      "Brown"
+    ],
+    "features": [
+      "Hydrating formula",
+      "Soft beard feel",
+      "Skin nourishment",
+      "Non greasy finish",
+      "Everyday grooming"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Perfume Mist",
+    "category": "Beauty",
+    "subcategory": "Fragrance",
+    "brand": "Allure",
+    "price": 1499,
+    "originalPrice": 1964,
+    "discount": 24,
+    "rating": 4.3,
+    "reviews": 1224,
+    "stock": 63,
+    "description": "Fresh perfume mist designed for an easy uplifting daily scent that feels modern and light.",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Rose",
+      "Gold"
+    ],
+    "features": [
+      "Lightweight scent",
+      "Fresh fragrance",
+      "Daily wear",
+      "Elegant bottle",
+      "Easy carry size"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Wooden Coffee Table",
+    "category": "Home Decor",
+    "subcategory": "Furniture",
+    "brand": "Urban Ladder",
+    "price": 7999,
+    "originalPrice": 9039,
+    "discount": 12,
+    "rating": 4.3,
+    "reviews": 945,
+    "stock": 17,
+    "description": "Warm wood coffee table that adds both utility and aesthetic polish to a living space.",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Walnut",
+      "Natural Oak"
+    ],
+    "features": [
+      "Solid wood finish",
+      "Sturdy base",
+      "Compact size",
+      "Modern styling",
+      "Easy maintenance"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Study Table",
+    "category": "Home Decor",
+    "subcategory": "Furniture",
+    "brand": "HomeCentre",
+    "price": 12999,
+    "originalPrice": 15079,
+    "discount": 14,
+    "rating": 4.2,
+    "reviews": 1100,
+    "stock": 14,
+    "description": "Study table with storage for work, study and home office needs in a compact footprint.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Walnut",
+      "Beech"
+    ],
+    "features": [
+      "Multi tier storage",
+      "Compact profile",
+      "Solid build",
+      "Study friendly",
+      "Space efficient"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Sofa Set",
+    "category": "Home Decor",
+    "subcategory": "Furniture",
+    "brand": "Pepperfry",
+    "price": 39999,
+    "originalPrice": 47599,
+    "discount": 16,
+    "rating": 4.5,
+    "reviews": 876,
+    "stock": 7,
+    "description": "Comfort enhancing sofa set designed to elevate family living rooms with style and ergonomic seating.",
+    "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Beige",
+      "Gray",
+      "Blue"
+    ],
+    "features": [
+      "Plush upholstery",
+      "Comfortable seating",
+      "Sturdy frame",
+      "Modern silhouette",
+      "Family friendly"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Wall Frame Set",
+    "category": "Home Decor",
+    "subcategory": "Decor",
+    "brand": "Ikea",
+    "price": 1799,
+    "originalPrice": 2195,
+    "discount": 18,
+    "rating": 4.1,
+    "reviews": 812,
+    "stock": 58,
+    "description": "Decorative wall frames that brighten interiors with a clean contemporary look.",
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "White",
+      "Golden"
+    ],
+    "features": [
+      "Minimalist design",
+      "Ready to hang",
+      "Modern finish",
+      "Protected glass",
+      "Interior accent"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Aroma Diffuser",
+    "category": "Home Decor",
+    "subcategory": "Decor",
+    "brand": "Aroma",
+    "price": 2099,
+    "originalPrice": 2624,
+    "discount": 20,
+    "rating": 4.4,
+    "reviews": 1512,
+    "stock": 45,
+    "description": "Aroma diffuser for calming ambience and comfortable indoor relaxation.",
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "White",
+      "Glass",
+      "Black"
+    ],
+    "features": [
+      "Ultrasonic mist",
+      "Quiet operation",
+      "Remote control",
+      "Aroma friendly design",
+      "Compact form"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Scented Candle Set",
+    "category": "Home Decor",
+    "subcategory": "Decor",
+    "brand": "Mysore Sandal",
+    "price": 1699,
+    "originalPrice": 2175,
+    "discount": 22,
+    "rating": 4.3,
+    "reviews": 1012,
+    "stock": 32,
+    "description": "Fragrant candle set that creates a warm welcoming ambience for homes and peaceful downtime.",
+    "image": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Ivory",
+      "Pink",
+      "Cream"
+    ],
+    "features": [
+      "Long lasting fragrance",
+      "Relaxing ambience",
+      "Gift ready pack",
+      "Clean burn",
+      "Home friendly decor"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Pencil Set",
+    "category": "Office Supplies",
+    "subcategory": "Stationery",
+    "brand": "Faber Castell",
+    "price": 399,
+    "originalPrice": 523,
+    "discount": 24,
+    "rating": 4.4,
+    "reviews": 980,
+    "stock": 135,
+    "description": "Classic pencil set offering smooth writing and dependable performance for study and work.",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Yellow",
+      "Assorted"
+    ],
+    "features": [
+      "Smooth graphite",
+      "Reliable durability",
+      "Comfortable grip",
+      "School ready",
+      "Everyday writing"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Ink Tank Printer",
+    "category": "Office Supplies",
+    "subcategory": "Printers",
+    "brand": "HP",
+    "price": 12999,
+    "originalPrice": 14689,
+    "discount": 12,
+    "rating": 4.3,
+    "reviews": 874,
+    "stock": 14,
+    "description": "High volume ink tank printer for low cost printing and efficient home office workflows.",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "features": [
+      "Low ink cost",
+      "High page yield",
+      "Wireless printing",
+      "Sharp output",
+      "Office efficiency"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "USB C Hub",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "brand": "Dell",
+    "price": 3999,
+    "originalPrice": 4639,
+    "discount": 14,
+    "rating": 4.4,
+    "reviews": 1187,
+    "stock": 29,
+    "description": "Compact hub expanding laptop connectivity for work, media and productivity tasks.",
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "features": [
+      "Multiple ports",
+      "Compact size",
+      "Fast data transfer",
+      "Laptop friendly",
+      "Travel ready"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Alpha a6400",
+    "category": "Electronics",
+    "subcategory": "Cameras",
+    "brand": "Sony",
+    "price": 79999,
+    "originalPrice": 95199,
+    "discount": 16,
+    "rating": 4.7,
+    "reviews": 1088,
+    "stock": 8,
+    "description": "Mirrorless camera for creators who want versatile image quality and dependable autofocus.",
+    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "features": [
+      "24.2MP sensor",
+      "Fast autofocus",
+      "4K video",
+      "Compact body",
+      "Creator friendly"
+    ],
+    "storage": [
+      "32GB",
+      "64GB"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "EcoTank Printer",
+    "category": "Office Supplies",
+    "subcategory": "Printers",
+    "brand": "Epson",
+    "price": 15999,
+    "originalPrice": 19519,
+    "discount": 18,
+    "rating": 4.3,
+    "reviews": 1042,
+    "stock": 12,
+    "description": "Refillable ink printer reducing running costs and supporting reliable office output.",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "features": [
+      "Refillable tank",
+      "High print volume",
+      "Low running cost",
+      "Software support",
+      "Office efficiency"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Laptop Stand",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "brand": "Amazon Basics",
+    "price": 1499,
+    "originalPrice": 1874,
+    "discount": 20,
+    "rating": 4.1,
+    "reviews": 965,
+    "stock": 58,
+    "description": "Ergonomic stand providing elevated comfort for long hours of work and study.",
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Gray"
+    ],
+    "features": [
+      "Ergonomic lift",
+      "Foldable design",
+      "Stable support",
+      "Portable",
+      "Aluminum finish"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Classic Oxford Shirt",
+    "category": "Men",
+    "subcategory": "Clothing",
+    "brand": "Allen Solly",
+    "price": 1999,
+    "originalPrice": 2559,
+    "discount": 22,
+    "rating": 4.4,
+    "reviews": 1880,
+    "stock": 52,
+    "description": "Smart workwear shirt with a polished look and comfortable everyday fit.",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Sky Blue",
+      "White",
+      "Navy"
+    ],
+    "features": [
+      "Cotton fabric",
+      "Polished collar",
+      "Premium weave",
+      "Smart casual styling",
+      "Wrinkle resistant"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Heritage Cotton Tee",
+    "category": "Men",
+    "subcategory": "Clothing",
+    "brand": "Peter England",
+    "price": 1299,
+    "originalPrice": 1702,
+    "discount": 24,
+    "rating": 4.2,
+    "reviews": 1420,
+    "stock": 63,
+    "description": "Breathable cotton tee designed for casual comfort and versatile styling across the week.",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Gray",
+      "White"
+    ],
+    "features": [
+      "Soft touch cotton",
+      "Breathable feel",
+      "Regular fit",
+      "Everyday wear",
+      "Easy care"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Denim Layer Jacket",
+    "category": "Men",
+    "subcategory": "Clothing",
+    "brand": "The Indian Garage Co.",
+    "price": 3299,
+    "originalPrice": 3728,
+    "discount": 12,
+    "rating": 4.5,
+    "reviews": 1234,
+    "stock": 30,
+    "description": "Layer friendly denim jacket with a rugged finish and relaxed styling for cooler evenings.",
+    "image": "https://images.unsplash.com/photo-1543508282-6319a3e2621f?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Blue",
+      "Black",
+      "Stone"
+    ],
+    "features": [
+      "Durable denim",
+      "Layering comfort",
+      "Casual structure",
+      "Warm finish",
+      "Classic outer layer"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Utility Cargo Joggers",
+    "category": "Men",
+    "subcategory": "Clothing",
+    "brand": "Roadster",
+    "price": 1799,
+    "originalPrice": 2087,
+    "discount": 14,
+    "rating": 4.1,
+    "reviews": 1322,
+    "stock": 49,
+    "description": "Relaxed cargo joggers built for mobility, comfort and practical everyday utility.",
+    "image": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Olive",
+      "Black",
+      "Gray"
+    ],
+    "features": [
+      "Stretch comfort",
+      "Utility pockets",
+      "Relaxed silhouette",
+      "Casual finish",
+      "Everyday practicality"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Slim Fit Denim",
+    "category": "Men",
+    "subcategory": "Clothing",
+    "brand": "Levis",
+    "price": 2599,
+    "originalPrice": 3093,
+    "discount": 16,
+    "rating": 4.5,
+    "reviews": 1760,
+    "stock": 57,
+    "description": "Refined denim built with stretch comfort and a neat silhouette for smart casual wear.",
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Indigo",
+      "Black",
+      "Stone"
+    ],
+    "features": [
+      "Premium denim",
+      "Stretch comfort",
+      "Smart fit",
+      "Clean finish",
+      "Daily versatility"
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Signature Polo Tee",
+    "category": "Men",
+    "subcategory": "Clothing",
+    "brand": "Tommy Hilfiger",
+    "price": 3399,
+    "originalPrice": 4147,
+    "discount": 18,
+    "rating": 4.6,
+    "reviews": 1190,
+    "stock": 29,
+    "description": "Classic polo with a premium knit and refined finish designed for casual and smart occasions.",
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Navy",
+      "White",
+      "Red"
+    ],
+    "features": [
+      "Soft knit",
+      "Premium collar",
+      "Sporty elegance",
+      "Breathable comfort",
+      "Smart casual styling"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Weekend Crew Sweatshirt",
+    "category": "Men",
+    "subcategory": "Clothing",
+    "brand": "H&M",
+    "price": 2199,
+    "originalPrice": 2749,
+    "discount": 20,
+    "rating": 4.2,
+    "reviews": 980,
+    "stock": 44,
+    "description": "Cozy sweatshirt made for cool weather and weekend comfort with easy layering choices.",
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Ash",
+      "Black",
+      "Maroon"
+    ],
+    "features": [
+      "Soft fleece",
+      "Warm comfort",
+      "Relaxed fit",
+      "Layer ready design",
+      "Casual wear"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Urban Trail Jacket",
+    "category": "Men",
+    "subcategory": "Clothing",
+    "brand": "Decathlon",
+    "price": 2999,
+    "originalPrice": 3839,
+    "discount": 22,
+    "rating": 4.3,
+    "reviews": 1145,
+    "stock": 37,
+    "description": "Trail inspired jacket offering light weather protection and movement friendly comfort.",
+    "image": "https://images.unsplash.com/photo-1567016432779-094069958ea5?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Forest",
+      "Black",
+      "Blue"
+    ],
+    "features": [
+      "Weather ready shell",
+      "Lightweight feel",
+      "Breathable design",
+      "Active comfort",
+      "Everyday mobility"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Formal Check Shirt",
+    "category": "Men",
+    "subcategory": "Clothing",
+    "brand": "Van Heusen",
+    "price": 2799,
+    "originalPrice": 3667,
+    "discount": 24,
+    "rating": 4.4,
+    "reviews": 1289,
+    "stock": 41,
+    "description": "Structured check shirt designed for office polish and easy style transitions through the day.",
+    "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Blue",
+      "White",
+      "Charcoal"
+    ],
+    "features": [
+      "Classic check pattern",
+      "Formal finish",
+      "Comfortable tailoring",
+      "Premium feel",
+      "All day wear"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Sport Stretch Tee",
+    "category": "Men",
+    "subcategory": "Clothing",
+    "brand": "Puma",
+    "price": 1999,
+    "originalPrice": 2259,
+    "discount": 12,
+    "rating": 4.3,
+    "reviews": 1542,
+    "stock": 52,
+    "description": "Performance tee with stretch comfort and breathable fabric designed for active lifestyles.",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Gray",
+      "Red"
+    ],
+    "features": [
+      "Stretch comfort",
+      "Moisture handling",
+      "Athletic fit",
+      "Lightweight feel",
+      "Styling flexibility"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Casual Overshirt",
+    "category": "Men",
+    "subcategory": "Clothing",
+    "brand": "U.S. Polo Assn.",
+    "price": 2999,
+    "originalPrice": 3479,
+    "discount": 14,
+    "rating": 4.4,
+    "reviews": 1324,
+    "stock": 31,
+    "description": "Modern overshirt that balances casual structure with a comfortable fit for daily layering.",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Khaki",
+      "Navy",
+      "Black"
+    ],
+    "features": [
+      "Layer friendly design",
+      "Soft structured fabric",
+      "Everyday versatility",
+      "Premium finish",
+      "Comfort first fit"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Performance Zip Hoodie",
+    "category": "Men",
+    "subcategory": "Clothing",
+    "brand": "Nike",
+    "price": 3999,
+    "originalPrice": 4759,
+    "discount": 16,
+    "rating": 4.6,
+    "reviews": 2014,
+    "stock": 28,
+    "description": "Premium zip hoodie built with soft interior comfort and a sporty fit for training and travel.",
+    "image": "https://images.unsplash.com/photo-1592150621744-aca64f48394e?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Gray",
+      "Blue"
+    ],
+    "features": [
+      "Soft lining",
+      "Zip front",
+      "Athletic comfort",
+      "Warm layering",
+      "Sporty appearance"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Air Max Pulse",
+    "category": "Men",
+    "subcategory": "Footwear",
+    "brand": "Nike",
+    "price": 6999,
+    "originalPrice": 8539,
+    "discount": 18,
+    "rating": 4.6,
+    "reviews": 2302,
+    "stock": 27,
+    "description": "Street ready sneaker with energized cushioning and a modern profile for all day comfort.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "White",
+      "Gray"
+    ],
+    "features": [
+      "Cushioned ride",
+      "Breathable upper",
+      "Daily comfort",
+      "Street style",
+      "Durable outsole"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Ultraboost 23",
+    "category": "Men",
+    "subcategory": "Footwear",
+    "brand": "Adidas",
+    "price": 7999,
+    "originalPrice": 9999,
+    "discount": 20,
+    "rating": 4.7,
+    "reviews": 2745,
+    "stock": 21,
+    "description": "Responsive running shoe with high energy cushioning built for movement and comfort.",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Core Black",
+      "Cloud White"
+    ],
+    "features": [
+      "Boost technology",
+      "Responsive support",
+      "Soft sock fit",
+      "Daily runner comfort",
+      "Modern fabric"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Formal Leather Shoes",
+    "category": "Men",
+    "subcategory": "Footwear",
+    "brand": "Bata",
+    "price": 3599,
+    "originalPrice": 4607,
+    "discount": 22,
+    "rating": 4.4,
+    "reviews": 980,
+    "stock": 18,
+    "description": "Classic leather shoes for office wear and polished gatherings with a comfortable insole.",
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Brown"
+    ],
+    "features": [
+      "Leather finish",
+      "Formal silhouette",
+      "Comfortable insole",
+      "Slip resistant sole",
+      "Professional styling"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Running Sneakers",
+    "category": "Men",
+    "subcategory": "Footwear",
+    "brand": "Puma",
+    "price": 4599,
+    "originalPrice": 6025,
+    "discount": 24,
+    "rating": 4.5,
+    "reviews": 2129,
+    "stock": 32,
+    "description": "Lightweight performance sneaker crafted to support feet during workouts and daily movement.",
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Red",
+      "Gray"
+    ],
+    "features": [
+      "Responsive sole",
+      "Breathable design",
+      "Lightweight comfort",
+      "Performance support",
+      "Daily use"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "CrossFit Flex",
+    "category": "Men",
+    "subcategory": "Footwear",
+    "brand": "Reebok",
+    "price": 4999,
+    "originalPrice": 5649,
+    "discount": 12,
+    "rating": 4.4,
+    "reviews": 1340,
+    "stock": 41,
+    "description": "Training focused footwear delivering stability and support for active routines.",
+    "image": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Blue",
+      "White"
+    ],
+    "features": [
+      "Stable midsole",
+      "High traction outsole",
+      "Training ready",
+      "Durable upper",
+      "Support focused design"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Everyday Slip On",
+    "category": "Men",
+    "subcategory": "Footwear",
+    "brand": "Skechers",
+    "price": 3899,
+    "originalPrice": 4523,
+    "discount": 14,
+    "rating": 4.2,
+    "reviews": 1187,
+    "stock": 46,
+    "description": "Easy slip on sneaker designed for smooth wear across errands, travel and casual occasions.",
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Gray",
+      "Black",
+      "Navy"
+    ],
+    "features": [
+      "Memory foam",
+      "Casual styling",
+      "Easy slip on fit",
+      "Soft comfort",
+      "Flexible sole"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Canvas Street Shoes",
+    "category": "Men",
+    "subcategory": "Footwear",
+    "brand": "Campus",
+    "price": 2299,
+    "originalPrice": 2736,
+    "discount": 16,
+    "rating": 4.1,
+    "reviews": 980,
+    "stock": 53,
+    "description": "Canvas shoes with light construction and everyday comfort for easy casual styling.",
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "White",
+      "Blue",
+      "Black"
+    ],
+    "features": [
+      "Lightweight build",
+      "Canvas upper",
+      "Daily comfort",
+      "Street inspired look",
+      "Low maintenance"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Printed Kurta Set",
+    "category": "Women",
+    "subcategory": "Clothing",
+    "brand": "Libas",
+    "price": 2499,
+    "originalPrice": 3049,
+    "discount": 18,
+    "rating": 4.5,
+    "reviews": 2310,
+    "stock": 36,
+    "description": "Printed kurta set with feminine detailing and breathable comfort for daily elegance.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Pink",
+      "Blue",
+      "Cream"
+    ],
+    "features": [
+      "Cotton blend",
+      "Festive ready styling",
+      "Breathable feel",
+      "Easy to wear",
+      "Comfort first fit"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Cotton Saree",
+    "category": "Women",
+    "subcategory": "Clothing",
+    "brand": "W for Woman",
+    "price": 2999,
+    "originalPrice": 3749,
+    "discount": 20,
+    "rating": 4.4,
+    "reviews": 2012,
+    "stock": 22,
+    "description": "Soft cotton saree with graceful drape and easy wear for celebrations and daily styling.",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Maroon",
+      "Gold",
+      "Navy"
+    ],
+    "features": [
+      "Soft drape",
+      "Breathable cotton",
+      "Traditional styling",
+      "Comfortable wear",
+      "Lightweight finish"
+    ],
+    "sizes": [
+      "Free Size"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "A Line Dress",
+    "category": "Women",
+    "subcategory": "Clothing",
+    "brand": "Biba",
+    "price": 4199,
+    "originalPrice": 5375,
+    "discount": 22,
+    "rating": 4.7,
+    "reviews": 1644,
+    "stock": 18,
+    "description": "Elegant A line dress with a flattering shape and premium fabric for evening and brunch outings.",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Peach",
+      "Navy",
+      "Black"
+    ],
+    "features": [
+      "Premium fabric",
+      "Elegant silhouette",
+      "Flattering fit",
+      "Multi occasion wear",
+      "Soft movement"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Linen Shirt",
+    "category": "Women",
+    "subcategory": "Clothing",
+    "brand": "H&M",
+    "price": 1899,
+    "originalPrice": 2488,
+    "discount": 24,
+    "rating": 4.2,
+    "reviews": 1420,
+    "stock": 46,
+    "description": "Linen shirt designed for breezy comfort and polished styling in warm weather.",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "White",
+      "Sky Blue",
+      "Ivory"
+    ],
+    "features": [
+      "Lightweight linen",
+      "Relaxed fit",
+      "Warm weather comfort",
+      "Casual polish",
+      "Easy layering"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Classic Blazer",
+    "category": "Women",
+    "subcategory": "Clothing",
+    "brand": "Mango",
+    "price": 5599,
+    "originalPrice": 6327,
+    "discount": 12,
+    "rating": 4.5,
+    "reviews": 1194,
+    "stock": 20,
+    "description": "Structured blazer with tailored polish for smart day looks and workplace styling.",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Navy",
+      "Stone"
+    ],
+    "features": [
+      "Structured silhouette",
+      "Tailored finish",
+      "Work ready styling",
+      "Premium look",
+      "Modern layering"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Cozy Hoodie",
+    "category": "Women",
+    "subcategory": "Clothing",
+    "brand": "Urbanic",
+    "price": 2299,
+    "originalPrice": 2667,
+    "discount": 14,
+    "rating": 4.2,
+    "reviews": 1022,
+    "stock": 36,
+    "description": "Soft hoodie made for relaxed comfort and layering during cool weather.",
+    "image": "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Gray",
+      "Pink",
+      "Black"
+    ],
+    "features": [
+      "Soft fleece",
+      "Relaxed fit",
+      "Warm layering",
+      "Casual comfort",
+      "Everyday wear"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Cotton Kurta",
+    "category": "Women",
+    "subcategory": "Clothing",
+    "brand": "Aurelia",
+    "price": 1899,
+    "originalPrice": 2260,
+    "discount": 16,
+    "rating": 4.3,
+    "reviews": 1186,
+    "stock": 48,
+    "description": "Easy to wear cotton kurta with soft tailoring and versatile styling for daily life.",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Beige",
+      "Blue",
+      "Maroon"
+    ],
+    "features": [
+      "Cotton comfort",
+      "Easy styling",
+      "Breathable feel",
+      "Modern silhouette",
+      "Daily wear"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Woven Tunic",
+    "category": "Women",
+    "subcategory": "Clothing",
+    "brand": "Fabindia",
+    "price": 2799,
+    "originalPrice": 3415,
+    "discount": 18,
+    "rating": 4.4,
+    "reviews": 1210,
+    "stock": 34,
+    "description": "A woven tunic with artisanal charm and soft movement for a relaxed elevated look.",
+    "image": "https://images.unsplash.com/photo-1577803947579-9f67b8a3f8fe?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Mustard",
+      "Emerald",
+      "Rust"
+    ],
+    "features": [
+      "Handcrafted feel",
+      "Soft drape",
+      "Easy fit",
+      "Contemporary styling",
+      "Everyday elegance"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Pleated Skirt",
+    "category": "Women",
+    "subcategory": "Clothing",
+    "brand": "Global Desi",
+    "price": 2499,
+    "originalPrice": 3124,
+    "discount": 20,
+    "rating": 4.3,
+    "reviews": 1098,
+    "stock": 40,
+    "description": "Flared pleated skirt with refined movement, perfect for brunches and smart casual dressing.",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Pink",
+      "Taupe"
+    ],
+    "features": [
+      "Pleated detail",
+      "Elegant movement",
+      "Smart casual styling",
+      "Comfortable fit",
+      "Modern silhouette"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Longline Cardigan",
+    "category": "Women",
+    "subcategory": "Clothing",
+    "brand": "Only",
+    "price": 2899,
+    "originalPrice": 3711,
+    "discount": 22,
+    "rating": 4.3,
+    "reviews": 1180,
+    "stock": 35,
+    "description": "Longline cardigan that layers easily for polished daywear and relaxed evenings.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Ivory",
+      "Navy",
+      "Heather"
+    ],
+    "features": [
+      "Soft knit",
+      "Layer friendly",
+      "Relaxed elegance",
+      "Comfort first fit",
+      "Warm but breathable"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Straight Fit Trouser",
+    "category": "Women",
+    "subcategory": "Clothing",
+    "brand": "And",
+    "price": 3299,
+    "originalPrice": 4322,
+    "discount": 24,
+    "rating": 4.4,
+    "reviews": 965,
+    "stock": 27,
+    "description": "Straight fit trouser with an elevated shape, ideal for office and day to night transitions.",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Beige",
+      "Charcoal"
+    ],
+    "features": [
+      "Tailored look",
+      "Comfortable waist",
+      "Versatile styling",
+      "All day wear",
+      "Smart polish"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Floral Midi Dress",
+    "category": "Women",
+    "subcategory": "Clothing",
+    "brand": "W for Woman",
+    "price": 4499,
+    "originalPrice": 5084,
+    "discount": 12,
+    "rating": 4.6,
+    "reviews": 1370,
+    "stock": 25,
+    "description": "Soft floral midi dress balancing elegance and comfort for festive and leisure occasions.",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Coral",
+      "Lilac",
+      "White"
+    ],
+    "features": [
+      "Floral print",
+      "Graceful silhouette",
+      "Soft fabric",
+      "Festive styling",
+      "Light movement"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Run Shoe",
+    "category": "Women",
+    "subcategory": "Footwear",
+    "brand": "Puma",
+    "price": 3299,
+    "originalPrice": 3827,
+    "discount": 14,
+    "rating": 4.5,
+    "reviews": 2104,
+    "stock": 31,
+    "description": "Cushioned running shoe with support for active days and everyday movement.",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Rose",
+      "Black",
+      "White"
+    ],
+    "features": [
+      "Responsive foam",
+      "Breathable upper",
+      "Comfort focused support",
+      "All day flexibility",
+      "Active styling"
+    ],
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Heels",
+    "category": "Women",
+    "subcategory": "Footwear",
+    "brand": "Biba",
+    "price": 3999,
+    "originalPrice": 4759,
+    "discount": 16,
+    "rating": 4.4,
+    "reviews": 1889,
+    "stock": 16,
+    "description": "Elegant heels with a premium finish for evening plans and formal events.",
+    "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Nude",
+      "Wine"
+    ],
+    "features": [
+      "Comfort cushion",
+      "Leather finish",
+      "Elegant silhouette",
+      "Strong grip",
+      "Formal appeal"
+    ],
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Everyday Sneakers",
+    "category": "Women",
+    "subcategory": "Footwear",
+    "brand": "Skechers",
+    "price": 3699,
+    "originalPrice": 4513,
+    "discount": 18,
+    "rating": 4.2,
+    "reviews": 1120,
+    "stock": 35,
+    "description": "Comfortable sneakers with soft cushioning for errands, commuting and easy day plans.",
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Rose",
+      "Gray",
+      "Black"
+    ],
+    "features": [
+      "Memory foam",
+      "Casual styling",
+      "Flexible sole",
+      "Easy comfort",
+      "Street ready look"
+    ],
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Mules",
+    "category": "Women",
+    "subcategory": "Footwear",
+    "brand": "Aldo",
+    "price": 4299,
+    "originalPrice": 5374,
+    "discount": 20,
+    "rating": 4.3,
+    "reviews": 942,
+    "stock": 26,
+    "description": "Modern mules with simple styling and lightweight comfort for daily wear.",
+    "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Taupe",
+      "Black",
+      "Gold"
+    ],
+    "features": [
+      "Lightweight heel",
+      "Premium finish",
+      "Easy slip on design",
+      "Comfortable support",
+      "Smart styling"
+    ],
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Block Heels",
+    "category": "Women",
+    "subcategory": "Footwear",
+    "brand": "Mochi",
+    "price": 2799,
+    "originalPrice": 3583,
+    "discount": 22,
+    "rating": 4.2,
+    "reviews": 990,
+    "stock": 42,
+    "description": "Versatile block heel that balances elegance and comfort throughout long days.",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Camel",
+      "Black",
+      "Pink"
+    ],
+    "features": [
+      "Balanced support",
+      "Stylish finish",
+      "Comfort focused design",
+      "Everyday stability",
+      "Smart formal wear"
+    ],
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Walking Sandals",
+    "category": "Women",
+    "subcategory": "Footwear",
+    "brand": "Clarks",
+    "price": 3899,
+    "originalPrice": 5108,
+    "discount": 24,
+    "rating": 4.4,
+    "reviews": 1068,
+    "stock": 22,
+    "description": "Soft walking sandals built for comfort on the move, from errands to travel.",
+    "image": "https://images.unsplash.com/photo-1525598912003-663126343e1f?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Tan",
+      "Brown",
+      "Black"
+    ],
+    "features": [
+      "Cushioned footbed",
+      "Breathable design",
+      "Travel ready",
+      "Reliable grip",
+      "Comfort driven style"
+    ],
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Comfort Loafers",
+    "category": "Women",
+    "subcategory": "Footwear",
+    "brand": "Vero Moda",
+    "price": 2599,
+    "originalPrice": 2937,
+    "discount": 12,
+    "rating": 4.1,
+    "reviews": 810,
+    "stock": 37,
+    "description": "Polished loafers with a relaxed structure for office and everyday smart styling.",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Beige",
+      "Navy"
+    ],
+    "features": [
+      "Slip on ease",
+      "Soft interior",
+      "Smart finish",
+      "Office ready look",
+      "Daily comfort"
+    ],
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Tote Bag",
+    "category": "Women",
+    "subcategory": "Accessories",
+    "brand": "Lavie",
+    "price": 2499,
+    "originalPrice": 2899,
+    "discount": 14,
+    "rating": 4.3,
+    "reviews": 980,
+    "stock": 24,
+    "description": "Roomy tote for work, study and daily essentials with premium styling.",
+    "image": "https://images.unsplash.com/photo-1561154464-82e9d1e0d8ab?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Brown",
+      "Taupe"
+    ],
+    "features": [
+      "Premium finish",
+      "Large storage",
+      "Day to day practicality",
+      "Smart organization",
+      "Comfortable handles"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Leather Sling",
+    "category": "Women",
+    "subcategory": "Accessories",
+    "brand": "Hidesign",
+    "price": 4299,
+    "originalPrice": 5116,
+    "discount": 16,
+    "rating": 4.6,
+    "reviews": 860,
+    "stock": 19,
+    "description": "Elegant sling made for modern everyday use with premium texture and easy styling.",
+    "image": "https://images.unsplash.com/photo-1625772299848-391b6a87d7b3?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Tan",
+      "Brown",
+      "Black"
+    ],
+    "features": [
+      "Leather finish",
+      "Adjustable strap",
+      "Compact storage",
+      "Premium detailing",
+      "Daily functionality"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Handbag",
+    "category": "Women",
+    "subcategory": "Accessories",
+    "brand": "Morpheme",
+    "price": 1999,
+    "originalPrice": 2439,
+    "discount": 18,
+    "rating": 4.2,
+    "reviews": 912,
+    "stock": 26,
+    "description": "Structured handbag combining utility and polished design for daily essentials.",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Cream",
+      "Camel"
+    ],
+    "features": [
+      "Multiple compartments",
+      "Structured profile",
+      "Premium finish",
+      "Everyday utility",
+      "Comfortable strap"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Tote",
+    "category": "Women",
+    "subcategory": "Accessories",
+    "brand": "Mango",
+    "price": 2499,
+    "originalPrice": 3124,
+    "discount": 20,
+    "rating": 4.3,
+    "reviews": 840,
+    "stock": 31,
+    "description": "Minimal tote with generous capacity and elegant styling for city life.",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Ivory",
+      "Black",
+      "Brown"
+    ],
+    "features": [
+      "Large capacity",
+      "Sturdy handle",
+      "Daily practicality",
+      "Minimalist style",
+      "Premium finish"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Travel Pouch",
+    "category": "Women",
+    "subcategory": "Accessories",
+    "brand": "Caprese",
+    "price": 1299,
+    "originalPrice": 1663,
+    "discount": 22,
+    "rating": 4.1,
+    "reviews": 740,
+    "stock": 48,
+    "description": "Compact pouch for cosmetics and personal essentials with an easy to carry profile.",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Pink",
+      "Black",
+      "Beige"
+    ],
+    "features": [
+      "Compact design",
+      "Organized storage",
+      "Travel friendly",
+      "Soft touch finish",
+      "Everyday convenience"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Cotton Kids Set",
+    "category": "Kids",
+    "subcategory": "Clothing",
+    "brand": "Myntra",
+    "price": 1299,
+    "originalPrice": 1702,
+    "discount": 24,
+    "rating": 4.1,
+    "reviews": 866,
+    "stock": 71,
+    "description": "Comfortable cotton outfit made for school days, play and relaxed everyday wear.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Blue",
+      "Pink",
+      "Yellow"
+    ],
+    "features": [
+      "Soft cotton",
+      "Stretch comfort",
+      "Easy fit",
+      "Machine washable",
+      "Daily wear"
+    ],
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y",
+      "12Y"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Kids Hoodie",
+    "category": "Kids",
+    "subcategory": "Clothing",
+    "brand": "U.S. Polo Assn.",
+    "price": 1899,
+    "originalPrice": 2146,
+    "discount": 12,
+    "rating": 4.2,
+    "reviews": 729,
+    "stock": 56,
+    "description": "Cuddly hoodie for cooler days with a sporty finish and warm comfort.",
+    "image": "https://images.unsplash.com/photo-1504707748692-419802cf939d?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Gray",
+      "Navy",
+      "Red"
+    ],
+    "features": [
+      "Warm fleece",
+      "Cozy hood",
+      "Layer friendly",
+      "Soft touch texture",
+      "Easy movement"
+    ],
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Raincoat",
+    "category": "Kids",
+    "subcategory": "Clothing",
+    "brand": "Mochi",
+    "price": 1499,
+    "originalPrice": 1739,
+    "discount": 14,
+    "rating": 4.3,
+    "reviews": 690,
+    "stock": 65,
+    "description": "Fun and practical raincoat for wet weather days with a flexible lightweight build.",
+    "image": "https://images.unsplash.com/photo-1550236520-7050f3582da0?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Yellow",
+      "Pink",
+      "Blue"
+    ],
+    "features": [
+      "Water resistant",
+      "Lightweight shell",
+      "Flexible fit",
+      "Bright finish",
+      "Rain ready comfort"
+    ],
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Daily Play Tee",
+    "category": "Kids",
+    "subcategory": "Clothing",
+    "brand": "Biba Kids",
+    "price": 999,
+    "originalPrice": 1189,
+    "discount": 16,
+    "rating": 4.1,
+    "reviews": 780,
+    "stock": 78,
+    "description": "Soft play tee built to stay comfortable through active afternoons and busy weekends.",
+    "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Green",
+      "Orange",
+      "Blue"
+    ],
+    "features": [
+      "Soft cotton",
+      "Easy movement",
+      "Simple care",
+      "Breathable feel",
+      "Play friendly design"
+    ],
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Kids Sneakers",
+    "category": "Kids",
+    "subcategory": "Footwear",
+    "brand": "Puma Kids",
+    "price": 2199,
+    "originalPrice": 2683,
+    "discount": 18,
+    "rating": 4.2,
+    "reviews": 934,
+    "stock": 52,
+    "description": "Kid friendly sneakers with cushioned comfort for running, play and everyday adventures.",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Blue",
+      "Pink",
+      "Black"
+    ],
+    "features": [
+      "Lightweight design",
+      "Cushioned sole",
+      "Ready for play",
+      "Supportive fit",
+      "Durable finish"
+    ],
+    "sizes": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Baby Diapers",
+    "category": "Kids",
+    "subcategory": "Essentials",
+    "brand": "Huggies",
+    "price": 799,
+    "originalPrice": 999,
+    "discount": 20,
+    "rating": 4.2,
+    "reviews": 1450,
+    "stock": 110,
+    "description": "High absorbency diapers designed for comfort and dryness through busy days.",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "White",
+      "Pastel"
+    ],
+    "features": [
+      "Soft comfort",
+      "Leak protection",
+      "Skin friendly",
+      "High absorbency",
+      "Reliable fit"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Baby Bottle",
+    "category": "Kids",
+    "subcategory": "Essentials",
+    "brand": "Pigeon",
+    "price": 699,
+    "originalPrice": 895,
+    "discount": 22,
+    "rating": 4.3,
+    "reviews": 1328,
+    "stock": 92,
+    "description": "Baby bottle with a comfortable feeding design and easy to clean structure.",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Pink",
+      "Blue",
+      "White"
+    ],
+    "features": [
+      "Anti colic design",
+      "Easy grip",
+      "BPA free body",
+      "Easy cleaning",
+      "Comfortable feeding"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Backpack",
+    "category": "Kids",
+    "subcategory": "Essentials",
+    "brand": "Wildcraft Kids",
+    "price": 1399,
+    "originalPrice": 1833,
+    "discount": 24,
+    "rating": 4.1,
+    "reviews": 810,
+    "stock": 61,
+    "description": "Small backpack with room for books, snacks and everyday essentials for school or outings.",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Blue",
+      "Purple",
+      "Red"
+    ],
+    "features": [
+      "Lightweight design",
+      "Multiple pockets",
+      "Comfortable straps",
+      "Travel ready",
+      "Daily utility"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Pencil Pack",
+    "category": "Office Supplies",
+    "subcategory": "Stationery",
+    "brand": "Classmate",
+    "price": 299,
+    "originalPrice": 338,
+    "discount": 12,
+    "rating": 4.1,
+    "reviews": 640,
+    "stock": 180,
+    "description": "Take along pencil pack for smooth writing and school preparation at an affordable rate.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Assorted"
+    ],
+    "features": [
+      "Smooth writing",
+      "Durable lead",
+      "Comfortable grip",
+      "Easy carry",
+      "Everyday use"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Floral Satin Dress",
+    "category": "Fashion",
+    "subcategory": "Women",
+    "brand": "DressBerry",
+    "price": 2899,
+    "originalPrice": 3599,
+    "discount": 19,
+    "rating": 4.4,
+    "reviews": 1180,
+    "stock": 24,
+    "description": "Elegant floral satin dress designed for graceful evenings, festive dinners and special day plans.",
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Rose",
+      "Blue",
+      "Ivory"
+    ],
+    "features": [
+      "Silky satin finish",
+      "Flattering silhouette",
+      "Festive ready style",
+      "Soft drape",
+      "Comfortable fit"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Linen Smart Blazer",
+    "category": "Fashion",
+    "subcategory": "Women",
+    "brand": "Mango",
+    "price": 4599,
+    "originalPrice": 5799,
+    "discount": 21,
+    "rating": 4.5,
+    "reviews": 1325,
+    "stock": 18,
+    "description": "Tailored linen blazer giving a polished office look with lightweight comfort and elegant structure.",
+    "image": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Navy",
+      "Stone"
+    ],
+    "features": [
+      "Tailored fit",
+      "Lightweight linen",
+      "Work ready design",
+      "Structured silhouette",
+      "Premium finish"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Classic Denim Jacket",
+    "category": "Fashion",
+    "subcategory": "Men",
+    "brand": "Wrangler",
+    "price": 3799,
+    "originalPrice": 4899,
+    "discount": 22,
+    "rating": 4.4,
+    "reviews": 1412,
+    "stock": 21,
+    "description": "Durable denim jacket with a relaxed feel, smart finish and everyday layering comfort.",
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Indigo",
+      "Black",
+      "Stone"
+    ],
+    "features": [
+      "Classic denim",
+      "Layer friendly",
+      "Casual structure",
+      "Durable fabric",
+      "Easy styling"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Premium Polo Shirt",
+    "category": "Fashion",
+    "subcategory": "Men",
+    "brand": "Van Heusen",
+    "price": 2199,
+    "originalPrice": 2899,
+    "discount": 24,
+    "rating": 4.5,
+    "reviews": 1548,
+    "stock": 33,
+    "description": "Smart casual polo with breathable fabric, premium finish and easy everyday versatility.",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Navy",
+      "White",
+      "Red"
+    ],
+    "features": [
+      "Soft knit",
+      "Smart casual look",
+      "Breathable comfort",
+      "Premium collar",
+      "Easy layering"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Street Runner Sneakers",
+    "category": "Fashion",
+    "subcategory": "Footwear",
+    "brand": "New Balance",
+    "price": 5299,
+    "originalPrice": 6799,
+    "discount": 22,
+    "rating": 4.6,
+    "reviews": 1893,
+    "stock": 26,
+    "description": "Runner inspired sneakers with supportive cushioning and a modern street ready design.",
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "White",
+      "Gray"
+    ],
+    "features": [
+      "Cushioned support",
+      "Breathable upper",
+      "Street style",
+      "Flexible sole",
+      "Daily comfort"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Leather Tote Bag",
+    "category": "Fashion",
+    "subcategory": "Accessories",
+    "brand": "Hidesign",
+    "price": 4299,
+    "originalPrice": 5499,
+    "discount": 22,
+    "rating": 4.5,
+    "reviews": 970,
+    "stock": 19,
+    "description": "Elegant leather tote built for work, travel and everyday essentials with rich finish and roomy storage.",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Tan",
+      "Brown",
+      "Black"
+    ],
+    "features": [
+      "Premium leather",
+      "Roomy storage",
+      "Structured design",
+      "Comfortable handles",
+      "Everyday utility"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Pleated Midi Skirt",
+    "category": "Fashion",
+    "subcategory": "Women",
+    "brand": "Fabindia",
+    "price": 2499,
+    "originalPrice": 3299,
+    "discount": 24,
+    "rating": 4.3,
+    "reviews": 1210,
+    "stock": 28,
+    "description": "Pleated midi skirt with easy movement, feminine polish and versatile styling for daily wear.",
+    "image": "https://images.unsplash.com/photo-1577803947579-9f67b8a3f8fe?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Rose",
+      "Mustard",
+      "Black"
+    ],
+    "features": [
+      "Pleated finish",
+      "Elegant movement",
+      "Versatile styling",
+      "Comfortable waist",
+      "Soft drape"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Utility Bomber Jacket",
+    "category": "Fashion",
+    "subcategory": "Men",
+    "brand": "Roadster",
+    "price": 3499,
+    "originalPrice": 4599,
+    "discount": 24,
+    "rating": 4.4,
+    "reviews": 1278,
+    "stock": 22,
+    "description": "Utility bomber with a rugged silhouette and practical comfort for daily layering and travel.",
+    "image": "https://images.unsplash.com/photo-1592150621744-aca64f48394e?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Olive",
+      "Black",
+      "Navy"
+    ],
+    "features": [
+      "Utility pockets",
+      "Rugged finish",
+      "Layer friendly",
+      "Warm comfort",
+      "Compact design"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Casual Slip Sandals",
+    "category": "Fashion",
+    "subcategory": "Footwear",
+    "brand": "Clarks",
+    "price": 2899,
+    "originalPrice": 3699,
+    "discount": 22,
+    "rating": 4.3,
+    "reviews": 1016,
+    "stock": 30,
+    "description": "Lightweight slip sandals with everyday comfort for casual, travel and summer styling.",
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Tan",
+      "Black",
+      "Brown"
+    ],
+    "features": [
+      "Soft footbed",
+      "Easy slip on fit",
+      "Travel comfort",
+      "Flexible sole",
+      "Casual styling"
+    ],
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Everyday Sunglasses",
+    "category": "Fashion",
+    "subcategory": "Accessories",
+    "brand": "Ray-Ban",
+    "price": 3499,
+    "originalPrice": 4499,
+    "discount": 22,
+    "rating": 4.6,
+    "reviews": 1450,
+    "stock": 27,
+    "description": "Classic sunglasses designed for everyday protection, comfort and polished casual style.",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Black",
+      "Brown",
+      "Blue"
+    ],
+    "features": [
+      "UV protection",
+      "Fashion frame",
+      "Comfort fit",
+      "Daily utility",
+      "Premium finish"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Organic Bananas",
+    "category": "Grocery",
+    "subcategory": "Fruits & Vegetables",
+    "brand": "FarmFresh",
+    "price": 99,
+    "originalPrice": 129,
+    "discount": 23,
+    "rating": 4.4,
+    "reviews": 860,
+    "stock": 100,
+    "description": "Naturally sweet bananas packed fresh for smoothies, breakfast bowls and healthy snacking.",
+    "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Yellow"
+    ],
+    "features": [
+      "Fresh harvest",
+      "Natural sweetness",
+      "Healthy snacking",
+      "No added preservatives",
+      "Daily nutrition"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Brown Rice 5kg",
+    "category": "Grocery",
+    "subcategory": "Staples",
+    "brand": "India Gate",
+    "price": 499,
+    "originalPrice": 679,
+    "discount": 27,
+    "rating": 4.5,
+    "reviews": 1350,
+    "stock": 54,
+    "description": "Nutritious brown rice pack for wholesome meals, balanced nutrition and easy home cooking.",
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Brown"
+    ],
+    "features": [
+      "Whole grain nutrition",
+      "Family sized pack",
+      "Easy cooking",
+      "Balanced meals",
+      "Rich in fibre"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Whole Wheat Atta",
+    "category": "Grocery",
+    "subcategory": "Staples",
+    "brand": "Aashirvaad",
+    "price": 359,
+    "originalPrice": 469,
+    "discount": 23,
+    "rating": 4.4,
+    "reviews": 2030,
+    "stock": 92,
+    "description": "Wholesome wheat flour designed for soft rotis, parathas and healthy home cooked meals.",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Golden"
+    ],
+    "features": [
+      "High fibre content",
+      "Fresh milling",
+      "Easy kneading",
+      "Daily nutrition",
+      "Family staple"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Extra Virgin Olive Oil",
+    "category": "Grocery",
+    "subcategory": "Oils & Spices",
+    "brand": "Saffola",
+    "price": 599,
+    "originalPrice": 799,
+    "discount": 25,
+    "rating": 4.6,
+    "reviews": 1715,
+    "stock": 64,
+    "description": "Pure olive oil crafted for healthy cooking, light dressings and flavourful meals.",
+    "image": "https://images.unsplash.com/photo-1474978528675-4a50a4508dc3?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Green",
+      "Gold"
+    ],
+    "features": [
+      "Cold pressed",
+      "Healthy cooking",
+      "Rich aroma",
+      "Premium quality",
+      "Versatile use"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Almonds 500g",
+    "category": "Grocery",
+    "subcategory": "Snacks & Dry Fruits",
+    "brand": "Nutraj",
+    "price": 749,
+    "originalPrice": 999,
+    "discount": 25,
+    "rating": 4.7,
+    "reviews": 1920,
+    "stock": 48,
+    "description": "Crunchy almonds rich in healthy fats for snacking, toppings and everyday nutrition.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Brown"
+    ],
+    "features": [
+      "Protein rich",
+      "Crunchy texture",
+      "Healthy snacking",
+      "No added sugar",
+      "Daily energy"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Multi Grain Bread",
+    "category": "Grocery",
+    "subcategory": "Bakery",
+    "brand": "Modern",
+    "price": 149,
+    "originalPrice": 199,
+    "discount": 25,
+    "rating": 4.3,
+    "reviews": 975,
+    "stock": 80,
+    "description": "Soft multi grain bread made for breakfast, sandwiches and easy everyday meals.",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Golden"
+    ],
+    "features": [
+      "Multi grain recipe",
+      "Freshly baked",
+      "Soft texture",
+      "Easy breakfast",
+      "Family favourite"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Fresh Tomato Ketchup",
+    "category": "Grocery",
+    "subcategory": "Condiments",
+    "brand": "Heinz",
+    "price": 199,
+    "originalPrice": 259,
+    "discount": 23,
+    "rating": 4.5,
+    "reviews": 1120,
+    "stock": 88,
+    "description": "Rich tomato ketchup delivering classic taste for snacks, burgers and quick meals.",
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Red"
+    ],
+    "features": [
+      "Classic tomato taste",
+      "Family staple",
+      "Quick meals",
+      "Rich flavour",
+      "Everyday condiment"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Green Tea Classic",
+    "category": "Grocery",
+    "subcategory": "Beverages",
+    "brand": "Tetley",
+    "price": 249,
+    "originalPrice": 329,
+    "discount": 24,
+    "rating": 4.4,
+    "reviews": 1465,
+    "stock": 71,
+    "description": "Refreshing green tea for calm routines, daily wellness and a lighter beverage choice.",
+    "image": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Green"
+    ],
+    "features": [
+      "Refreshing taste",
+      "Wellness beverage",
+      "Daily routine",
+      "Light and clean",
+      "Easy to brew"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Protein Yogurt",
+    "category": "Grocery",
+    "subcategory": "Dairy",
+    "brand": "Nestle",
+    "price": 119,
+    "originalPrice": 169,
+    "discount": 30,
+    "rating": 4.3,
+    "reviews": 1045,
+    "stock": 76,
+    "description": "Creamy protein yogurt made for healthy breakfasts, snack breaks and quick nutrition boosts.",
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "White"
+    ],
+    "features": [
+      "High protein",
+      "Creamy texture",
+      "Healthy breakfast",
+      "Easy digestion",
+      "Daily nutrition"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Coffee Beans Premium",
+    "category": "Grocery",
+    "subcategory": "Beverages",
+    "brand": "Bru",
+    "price": 549,
+    "originalPrice": 699,
+    "discount": 21,
+    "rating": 4.6,
+    "reviews": 1688,
+    "stock": 49,
+    "description": "Roasted coffee beans delivering rich aroma and café style freshness for home brewing.",
+    "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "Brown"
+    ],
+    "features": [
+      "Rich aroma",
+      "Fresh roast",
+      "Home brewing",
+      "Smooth flavour",
+      "Daily energy"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Coffee ",
+    "category": "Grocery",
+    "subcategory": "Beverages",
+    "brand": "Bru",
+    "price": 5499,
+    "originalPrice": 6999,
+    "discount": 1500,
+    "rating": 4.9,
+    "reviews": 19092,
+    "stock": 1000,
+    "description": "Roasted coffee beans delivering rich aroma and café style freshness for home brewing.",
+    "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=900&q=80",
+    "colors": [
+      "black"
+    ],
+    "features": [
+      "Rich aroma",
+      "Fresh roast",
+      "Home brewing",
+      "Smooth flavour",
+      "Daily energy",
+      "energy Drink"
+    ]
+  }
+]

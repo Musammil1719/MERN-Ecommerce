@@ -1,0 +1,156 @@
+
+/* =========================
+   HERO BANNER
+========================= */
+
+.hero-banner {
+  padding-left: 550px;
+  min-height: 520px;
+  background:
+    linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.96) 0%,
+      rgba(0, 0, 0, 0.88) 45%,
+      rgba(0, 0, 0, 0.55) 100%
+    ),
+    linear-gradient(135deg, #111111, #000000);
+
+  color: #ffffff;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Gold decorative effect */
+
+.hero-banner::before {
+  content: "";
+  position: absolute;
+  width: 350px;
+  height: 350px;
+  border: 1px solid rgba(212, 175, 55, 0.25);
+  border-radius: 50%;
+  right: -100px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.hero-banner::after {
+  content: "";
+  position: absolute;
+  width: 220px;
+  height: 220px;
+  border: 1px solid rgba(212, 175, 55, 0.15);
+  border-radius: 50%;
+  right: 30px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* Content */
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+}
+
+/* Subtitle */
+
+.hero-subtitle {
+  color: #d4af37;
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+/* Heading */
+
+.hero-title {
+  font-size: clamp(2.5rem, 5vw, 4.5rem);
+  line-height: 1.1;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.hero-title span {
+  color: #d4af37;
+}
+
+/* Description */
+
+.hero-description {
+  color: #cccccc;
+  font-size: 1.1rem;
+  max-width: 550px;
+}
+
+/* Shop Button */
+
+.hero-shop-btn {
+  background-color: #d4af37;
+  border: 2px solid #d4af37;
+  color: #000000;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.hero-shop-btn:hover {
+  background-color: #f0d878;
+  border-color: #f0d878;
+  color: #000000;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(212, 175, 55, 0.25);
+}
+
+/* =========================
+   TABLET
+========================= */
+
+@media (max-width: 991px) {
+  .hero-banner {
+    min-height: 460px;
+  }
+
+  .hero-title {
+    font-size: 3.2rem;
+  }
+}
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 576px) {
+  .hero-banner {
+    min-height: 420px;
+    text-align: center;
+  }
+
+  .hero-title {
+    font-size: 2.5rem;
+  }
+
+  .hero-description {
+    font-size: 1rem;
+  }
+
+  .hero-subtitle {
+    font-size: 0.9rem;
+    letter-spacing: 1.5px;
+  }
+
+  .hero-banner::before {
+    width: 250px;
+    height: 250px;
+    right: -120px;
+  }
+
+  .hero-banner::after {
+    width: 160px;
+    height: 160px;
+    right: -70px;
+  }
+}
+
+
+
